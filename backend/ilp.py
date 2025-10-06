@@ -2,7 +2,7 @@ import pandas as pd
 import pulp
 
 # Load player effectiveness data (already has "tag" column from your earlier step)
-df = pd.read_csv("tamil_thalaivas_player_effectiveness.csv")
+df = pd.read_csv("player_effectiveness.csv")
 
 # Ensure tagging (reuse your logic if needed)
 def tag_player(row, offense_thresh, defense_thresh):
@@ -59,7 +59,7 @@ selected_idx = [i for i in df.index if pulp.value(x[i]) == 1]
 final_team = df.loc[selected_idx].reset_index(drop=True)
 
 # Save result
-final_team.to_csv("optimal_tamil_thalaivas_team_ILP.csv", index=False)
+final_team.to_csv("optimal_kabaddi_team_ILP.csv", index=False)
 
-print("ILP optimal team saved to: optimal_tamil_thalaivas_team_ILP.csv")
+print("ILP optimal team saved to: optimal_kabaddi_team_ILP.csv")
 print(final_team)

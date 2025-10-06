@@ -5,7 +5,7 @@ import numpy as np
 
 
 # Load data
-df = pd.read_csv("tamil_thalaivas_player_effectiveness.csv")
+df = pd.read_csv("player_effectiveness.csv")
 
 # Step 1: Compute 70th percentile thresholds
 offense_thresh = df["offense_points"].quantile(0.7)
@@ -68,7 +68,7 @@ for r_needed in range(2, 5):  # allow 2–4 raiders
 final_team = best_team.reset_index(drop=True)
 
 # Save
-out_path = "optimal_tamil_thalaivas_team_with_allrounder.csv"
+out_path = "optimal_kabaddi_with_allrounder.csv"
 final_team.to_csv(out_path, index=False)
 
 print("7-member team saved to:", out_path)
