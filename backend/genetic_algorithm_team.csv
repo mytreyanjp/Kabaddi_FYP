@@ -1,8 +1,8 @@
-player_name,defense_points,offense_points,overall_points,tag
-Manjeet,1.16,78.0,97.0,allrounder
-Vikash Kandola,0.295,137.5,142.0,raider
-Wasim Sajjad,1.8,0.0,27.0,defender
-Maninder Singh,0.135,166.0,168.25,raider
-Naveen Kumar,0.115,173.0,176.0,raider
-Mahender Singh,2.786666666666666,0.3333333333333333,55.0,defender
-Neeraj Kumar,1.545,0.0,24.0,defender
+player_name,offense_points,defense_points,overall_points,total_seasons,primary_position,tag
+Manjeet Chhillar,11.281003204176203,65.26306808445725,34.95367187588699,7,All Rounder,allrounder
+Amit Hooda,0.4750731205664165,61.49110284790393,26.87319125459681,6,"Defender, right corner",defender
+Joginder Singh Narwal,0.2729805106500178,49.10035635171799,21.537952631126068,5,"Defender, left corner",defender
+Siddharth Sirish Desai,63.47504232608945,1.5630748239523875,35.14803818793001,2,Raider,raider
+Pardeep Narwal,61.81202127436486,1.4811725664469124,34.684937879594806,6,Raider,raider
+Vikash Kandola,52.836111705444274,5.567110598945872,31.057765886525708,2,Raider,raider
+Sumit,0.6593075501415815,79.49564871666215,34.77200960699249,1,"Defender, left corner",defender
