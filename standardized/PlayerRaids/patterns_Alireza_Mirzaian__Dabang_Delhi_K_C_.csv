@@ -1,0 +1,11 @@
+pattern,support,gain
+doordie_success_nan_vs_Dabang_Delhi_K.C._none_early_single||empty_unknown_nan_vs_Dabang_Delhi_K.C._none_early_zero,4,3.0
+empty_unknown_nan_vs_Dabang_Delhi_K.C._none_early_zero||doordie_success_nan_vs_Dabang_Delhi_K.C._none_early_single||empty_unknown_nan_vs_Dabang_Delhi_K.C._none_early_zero,2,3.0
+empty_unknown_nan_vs_Dabang_Delhi_K.C._none_early_zero||doordie_success_nan_vs_Dabang_Delhi_K.C._none_early_single,2,1.0
+empty_unknown_nan_vs_Dabang_Delhi_K.C._none_early_zero||bonus_success_nan_vs_Dabang_Delhi_K.C._unknown_early_zero,2,1.0
+empty_unknown_nan_vs_Dabang_Delhi_K.C._none_early_zero,7,-1.0
+bonus_success_nan_vs_Dabang_Delhi_K.C._unknown_early_zero,5,-1.0
+doordie_success_nan_vs_Dabang_Delhi_K.C._none_early_single,4,-1.0
+regular_success_nan_vs_Dabang_Delhi_K.C._none_early_single,3,-1.0
+doordie_success_nan_vs_Dabang_Delhi_K.C._none_early_high,1,-1.0
+regular_success_nan_vs_Dabang_Delhi_K.C._none_early_high,1,-1.0

@@ -1,0 +1,1401 @@
+[
+  {
+    "season": "Season 1",
+    "match_id": "6774",
+    "events": [
+      {
+        "half": "2 Half",
+        "time": "00",
+        "event_type": "Empty Raid",
+        "raider": "Vijay Malik",
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Vijay Malik makes an empty raid."
+      },
+      {
+        "half": "2 Half",
+        "time": "00",
+        "event_type": "Successful Raid",
+        "raider": "Ayan",
+        "team": null,
+        "players_out": [
+          "Chetan Sahu"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Ayan executes a successful raid, getting Chetan Sahu out."
+      },
+      {
+        "half": "2 Half",
+        "time": "01",
+        "event_type": "Successful Raid",
+        "raider": "Bharat",
+        "team": null,
+        "players_out": [
+          "Ankit Kumar Rana",
+          "Balaji D",
+          "Navdeep"
+        ],
+        "tackled_by": null,
+        "do_or_die": true,
+        "all_out": false,
+        "substitution": null,
+        "points": 3,
+        "description": "Bharat executes a successful raid, getting Ankit Kumar Rana and Balaji D and Navdeep out."
+      },
+      {
+        "half": "2 Half",
+        "time": "01",
+        "event_type": "Successful Raid",
+        "raider": "Ayan",
+        "team": null,
+        "players_out": [
+          "Avi Duhan"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Ayan executes a successful raid, getting Avi Duhan out."
+      },
+      {
+        "half": "2 Half",
+        "time": "01",
+        "event_type": "TimeOut",
+        "raider": "",
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Commentary 2 nd Half: 01' TimeOut Raider :"
+      },
+      {
+        "half": "2 Half",
+        "time": "01",
+        "event_type": "Empty Raid",
+        "raider": "Bharat",
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Bharat makes an empty raid."
+      },
+      {
+        "half": "2 Half",
+        "time": "02",
+        "event_type": "Successful Raid",
+        "raider": "Ayan",
+        "team": null,
+        "players_out": [
+          "Shubham Shinde"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Ayan executes a successful raid, getting Shubham Shinde out."
+      },
+      {
+        "half": "2 Half",
+        "time": "02",
+        "event_type": "Empty Raid",
+        "raider": "Vijay Malik",
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Vijay Malik makes an empty raid."
+      },
+      {
+        "half": "2 Half",
+        "time": "03",
+        "event_type": "Successful Raid",
+        "raider": "Ayan",
+        "team": null,
+        "players_out": [
+          "Ajit Pawar"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Ayan executes a successful raid, getting Ajit Pawar out."
+      },
+      {
+        "half": "2 Half",
+        "time": "04",
+        "event_type": "TimeOut",
+        "raider": "",
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Commentary 2 nd Half: 04' TimeOut Raider :"
+      },
+      {
+        "half": "2 Half",
+        "time": "04",
+        "event_type": "Successful Raid",
+        "raider": "Bharat",
+        "team": null,
+        "players_out": [
+          "Ankit Kumar Rana",
+          "Deepak"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 2,
+        "description": "Bharat executes a successful raid, getting Ankit Kumar Rana and Deepak out."
+      },
+      {
+        "half": "2 Half",
+        "time": "04",
+        "event_type": "Successful Raid",
+        "raider": "Ankit Kumar Rana",
+        "team": null,
+        "players_out": [
+          "Ajit Pawar"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Ankit Kumar Rana executes a successful raid, getting Ajit Pawar out."
+      },
+      {
+        "half": "2 Half",
+        "time": "04",
+        "event_type": "Empty Raid",
+        "raider": "Vijay Malik",
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Vijay Malik makes an empty raid."
+      },
+      {
+        "half": "2 Half",
+        "time": "05",
+        "event_type": "Unsuccessful Raid",
+        "raider": "Milan Dahiya",
+        "team": null,
+        "players_out": [],
+        "tackled_by": "Ankit",
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Milan Dahiya is tackled by Ankit on an unsuccessful raid."
+      },
+      {
+        "half": "2 Half",
+        "time": "05",
+        "event_type": "Successful Raid",
+        "raider": "Bharat",
+        "team": null,
+        "players_out": [
+          "Balaji D"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Bharat executes a successful raid, getting Balaji D out."
+      },
+      {
+        "half": "2 Half",
+        "time": "06",
+        "event_type": "Unsuccessful Raid",
+        "raider": "Ayan",
+        "team": null,
+        "players_out": [],
+        "tackled_by": "Vijay Malik",
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Ayan is tackled by Vijay Malik on an unsuccessful raid."
+      },
+      {
+        "half": "2 Half",
+        "time": "06",
+        "event_type": "Successful Raid",
+        "raider": "Bharat",
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Bharat executes a successful raid."
+      },
+      {
+        "half": "2 Half",
+        "time": "07",
+        "event_type": "Successful Raid",
+        "raider": "Ayan",
+        "team": null,
+        "players_out": [
+          "Shubham Shinde"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Ayan executes a successful raid, getting Shubham Shinde out."
+      },
+      {
+        "half": "2 Half",
+        "time": "07",
+        "event_type": "Empty Raid",
+        "raider": "Bharat",
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Bharat makes an empty raid."
+      },
+      {
+        "half": "2 Half",
+        "time": "08",
+        "event_type": "Empty Raid",
+        "raider": "Ayan",
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Ayan makes an empty raid."
+      },
+      {
+        "half": "2 Half",
+        "time": "09",
+        "event_type": "Substitution",
+        "raider": null,
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": {
+          "in": "Vijay Malik",
+          "out": "Aman"
+        },
+        "points": 0,
+        "description": "Substitution: In: Vijay Malik; Out: Aman."
+      },
+      {
+        "half": "2 Half",
+        "time": "09",
+        "event_type": "Unsuccessful Raid",
+        "raider": "Bharat",
+        "team": null,
+        "players_out": [],
+        "tackled_by": "Navdeep",
+        "do_or_die": false,
+        "all_out": true,
+        "substitution": null,
+        "points": 0,
+        "description": "Bharat is tackled by Navdeep on an unsuccessful raid."
+      },
+      {
+        "half": "2 Half",
+        "time": "09",
+        "event_type": "Successful Raid",
+        "raider": "Ayan",
+        "team": null,
+        "players_out": [
+          "Aman"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Ayan executes a successful raid, getting Aman out."
+      },
+      {
+        "half": "2 Half",
+        "time": "10",
+        "event_type": "Successful Raid",
+        "raider": "Bharat",
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Bharat executes a successful raid."
+      },
+      {
+        "half": "2 Half",
+        "time": "10",
+        "event_type": "Substitution",
+        "raider": null,
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": {
+          "in": "Bharat",
+          "out": "Vijay Malik"
+        },
+        "points": 0,
+        "description": "Substitution: In: Bharat; Out: Vijay Malik."
+      },
+      {
+        "half": "2 Half",
+        "time": "10",
+        "event_type": "TimeOut",
+        "raider": "",
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Commentary 2 nd Half: 10' TimeOut Raider :"
+      },
+      {
+        "half": "2 Half",
+        "time": "10",
+        "event_type": "Successful Raid",
+        "raider": "Ayan",
+        "team": null,
+        "players_out": [
+          "Avi Duhan"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Ayan executes a successful raid, getting Avi Duhan out."
+      },
+      {
+        "half": "2 Half",
+        "time": "11",
+        "event_type": "Substitution",
+        "raider": null,
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": {
+          "in": "Aman",
+          "out": "Bharat"
+        },
+        "points": 0,
+        "description": "Substitution: In: Aman; Out: Bharat."
+      },
+      {
+        "half": "2 Half",
+        "time": "11",
+        "event_type": "Successful Raid",
+        "raider": "Bharat",
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Bharat executes a successful raid."
+      },
+      {
+        "half": "2 Half",
+        "time": "11",
+        "event_type": "Successful Raid",
+        "raider": "Ayan",
+        "team": null,
+        "players_out": [
+          "Ankit",
+          "Chetan Sahu"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 2,
+        "description": "Ayan executes a successful raid, getting Ankit and Chetan Sahu out."
+      },
+      {
+        "half": "2 Half",
+        "time": "12",
+        "event_type": "Empty Raid",
+        "raider": "Bharat",
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Bharat makes an empty raid."
+      },
+      {
+        "half": "2 Half",
+        "time": "12",
+        "event_type": "Successful Raid",
+        "raider": "Ayan",
+        "team": null,
+        "players_out": [
+          "Ajit Pawar"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Ayan executes a successful raid, getting Ajit Pawar out."
+      },
+      {
+        "half": "2 Half",
+        "time": "13",
+        "event_type": "Successful Raid",
+        "raider": "Bharat",
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Bharat executes a successful raid."
+      },
+      {
+        "half": "2 Half",
+        "time": "13",
+        "event_type": "Successful Raid",
+        "raider": "Ayan",
+        "team": null,
+        "players_out": [
+          "Shubham Shinde"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Ayan executes a successful raid, getting Shubham Shinde out."
+      },
+      {
+        "half": "2 Half",
+        "time": "14",
+        "event_type": "Successful Raid",
+        "raider": "Bharat",
+        "team": null,
+        "players_out": [
+          "Navdeep"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Bharat executes a successful raid, getting Navdeep out."
+      },
+      {
+        "half": "2 Half",
+        "time": "14",
+        "event_type": "Green Card",
+        "raider": "Shubham Shinde",
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Commentary 2 nd Half: 14' Green Card Raider : Shubham Shinde"
+      },
+      {
+        "half": "2 Half",
+        "time": "15",
+        "event_type": "Unsuccessful Raid",
+        "raider": "Ankit Kumar Rana",
+        "team": null,
+        "players_out": [],
+        "tackled_by": "Ajit Pawar",
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Ankit Kumar Rana is tackled by Ajit Pawar on an unsuccessful raid."
+      },
+      {
+        "half": "2 Half",
+        "time": "15",
+        "event_type": "Successful Raid",
+        "raider": "Bharat",
+        "team": null,
+        "players_out": [
+          "Navdeep"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Bharat executes a successful raid, getting Navdeep out."
+      },
+      {
+        "half": "2 Half",
+        "time": "16",
+        "event_type": "Successful Raid",
+        "raider": "Ayan",
+        "team": null,
+        "players_out": [
+          "Shubham Shinde"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Ayan executes a successful raid, getting Shubham Shinde out."
+      },
+      {
+        "half": "2 Half",
+        "time": "16",
+        "event_type": "Substitution",
+        "raider": null,
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": {
+          "in": "Balaji D",
+          "out": "Ashish Birwal"
+        },
+        "points": 0,
+        "description": "Substitution: In: Balaji D; Out: Ashish Birwal."
+      },
+      {
+        "half": "2 Half",
+        "time": "16",
+        "event_type": "Successful Raid",
+        "raider": "Bharat",
+        "team": null,
+        "players_out": [
+          "Navdeep",
+          "Deepak"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": true,
+        "substitution": null,
+        "points": 2,
+        "description": "Bharat executes a successful raid, getting Navdeep and Deepak out."
+      },
+      {
+        "half": "2 Half",
+        "time": "17",
+        "event_type": "Unsuccessful Raid",
+        "raider": "Ankit Kumar Rana",
+        "team": null,
+        "players_out": [],
+        "tackled_by": "Ajit Pawar",
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Ankit Kumar Rana is tackled by Ajit Pawar on an unsuccessful raid."
+      },
+      {
+        "half": "2 Half",
+        "time": "18",
+        "event_type": "Successful Raid",
+        "raider": "Bharat",
+        "team": null,
+        "players_out": [
+          "Ashish Birwal"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Bharat executes a successful raid, getting Ashish Birwal out."
+      },
+      {
+        "half": "2 Half",
+        "time": "18",
+        "event_type": "Empty Raid",
+        "raider": "Deepak",
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Deepak makes an empty raid."
+      },
+      {
+        "half": "2 Half",
+        "time": "18",
+        "event_type": "Empty Raid",
+        "raider": "Vijay Malik",
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Vijay Malik makes an empty raid."
+      },
+      {
+        "half": "2 Half",
+        "time": "19",
+        "event_type": "Substitution",
+        "raider": null,
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": {
+          "in": "Ashish Birwal",
+          "out": "Balaji D"
+        },
+        "points": 0,
+        "description": "Substitution: In: Ashish Birwal; Out: Balaji D."
+      },
+      {
+        "half": "2 Half",
+        "time": "19",
+        "event_type": "Unsuccessful Raid",
+        "raider": "Ayan",
+        "team": null,
+        "players_out": [],
+        "tackled_by": "Shubham Shinde",
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Ayan is tackled by Shubham Shinde on an unsuccessful raid."
+      },
+      {
+        "half": "2 Half",
+        "time": "19",
+        "event_type": "Successful Raid",
+        "raider": "Bharat",
+        "team": null,
+        "players_out": [
+          "Ankit"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Bharat executes a successful raid, getting Ankit out."
+      },
+      {
+        "half": "1 Half",
+        "time": "00",
+        "event_type": "Successful Raid",
+        "raider": "Bharat",
+        "team": null,
+        "players_out": [
+          "Milan Dahiya"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Bharat executes a successful raid, getting Milan Dahiya out."
+      },
+      {
+        "half": "1 Half",
+        "time": "00",
+        "event_type": "Successful Raid",
+        "raider": "Ayan",
+        "team": null,
+        "players_out": [
+          "Ankit",
+          "Chetan Sahu"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 2,
+        "description": "Ayan executes a successful raid, getting Ankit and Chetan Sahu out."
+      },
+      {
+        "half": "1 Half",
+        "time": "01",
+        "event_type": "Successful Raid",
+        "raider": "Bharat",
+        "team": null,
+        "players_out": [
+          "Milan Dahiya"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Bharat executes a successful raid, getting Milan Dahiya out."
+      },
+      {
+        "half": "1 Half",
+        "time": "02",
+        "event_type": "Substitution",
+        "raider": null,
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": {
+          "in": "Balaji D",
+          "out": "Ashish Birwal"
+        },
+        "points": 0,
+        "description": "Substitution: In: Balaji D; Out: Ashish Birwal."
+      },
+      {
+        "half": "1 Half",
+        "time": "02",
+        "event_type": "Unsuccessful Raid",
+        "raider": "Milan Dahiya",
+        "team": null,
+        "players_out": [],
+        "tackled_by": "Chetan Sahu",
+        "do_or_die": false,
+        "all_out": true,
+        "substitution": null,
+        "points": 0,
+        "description": "Milan Dahiya is tackled by Chetan Sahu on an unsuccessful raid."
+      },
+      {
+        "half": "1 Half",
+        "time": "03",
+        "event_type": "Successful Raid",
+        "raider": "Bharat",
+        "team": null,
+        "players_out": [
+          "Navdeep"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Bharat executes a successful raid, getting Navdeep out."
+      },
+      {
+        "half": "1 Half",
+        "time": "03",
+        "event_type": "Successful Raid",
+        "raider": "Milan Dahiya",
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Milan Dahiya executes a successful raid."
+      },
+      {
+        "half": "1 Half",
+        "time": "04",
+        "event_type": "Successful Raid",
+        "raider": "Bharat",
+        "team": null,
+        "players_out": [
+          "Ashish Birwal"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Bharat executes a successful raid, getting Ashish Birwal out."
+      },
+      {
+        "half": "1 Half",
+        "time": "04",
+        "event_type": "Substitution",
+        "raider": null,
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": {
+          "in": "Ashish Birwal",
+          "out": "Balaji D"
+        },
+        "points": 0,
+        "description": "Substitution: In: Ashish Birwal; Out: Balaji D."
+      },
+      {
+        "half": "1 Half",
+        "time": "04",
+        "event_type": "Unsuccessful Raid",
+        "raider": "Ankit Kumar Rana",
+        "team": null,
+        "players_out": [],
+        "tackled_by": "Avi Duhan",
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Ankit Kumar Rana is tackled by Avi Duhan on an unsuccessful raid."
+      },
+      {
+        "half": "1 Half",
+        "time": "05",
+        "event_type": "Successful Raid",
+        "raider": "Bharat",
+        "team": null,
+        "players_out": [
+          "Ankit"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Bharat executes a successful raid, getting Ankit out."
+      },
+      {
+        "half": "1 Half",
+        "time": "06",
+        "event_type": "Unsuccessful Raid",
+        "raider": "Ayan",
+        "team": null,
+        "players_out": [],
+        "tackled_by": "Ankit",
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Ayan is tackled by Ankit on an unsuccessful raid."
+      },
+      {
+        "half": "1 Half",
+        "time": "06",
+        "event_type": "Successful Raid",
+        "raider": "Chetan Sahu",
+        "team": null,
+        "players_out": [
+          "Deepak"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Chetan Sahu executes a successful raid, getting Deepak out."
+      },
+      {
+        "half": "1 Half",
+        "time": "06",
+        "event_type": "Empty Raid",
+        "raider": "Ankit Kumar Rana",
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Ankit Kumar Rana makes an empty raid."
+      },
+      {
+        "half": "1 Half",
+        "time": "07",
+        "event_type": "Unsuccessful Raid",
+        "raider": "Vijay Malik",
+        "team": null,
+        "players_out": [],
+        "tackled_by": "Navdeep",
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Vijay Malik is tackled by Navdeep on an unsuccessful raid."
+      },
+      {
+        "half": "1 Half",
+        "time": "08",
+        "event_type": "Unsuccessful Raid",
+        "raider": "Ayan",
+        "team": null,
+        "players_out": [],
+        "tackled_by": "Shubham Shinde",
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Ayan is tackled by Shubham Shinde on an unsuccessful raid."
+      },
+      {
+        "half": "1 Half",
+        "time": "08",
+        "event_type": "Empty Raid",
+        "raider": "Vijay Malik",
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Vijay Malik makes an empty raid."
+      },
+      {
+        "half": "1 Half",
+        "time": "09",
+        "event_type": "Successful Raid",
+        "raider": "Ayan",
+        "team": null,
+        "players_out": [
+          "Ajit Pawar"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Ayan executes a successful raid, getting Ajit Pawar out."
+      },
+      {
+        "half": "1 Half",
+        "time": "09",
+        "event_type": "Unsuccessful Raid",
+        "raider": "Bharat",
+        "team": null,
+        "players_out": [],
+        "tackled_by": "Navdeep",
+        "do_or_die": true,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Bharat is tackled by Navdeep on an unsuccessful raid."
+      },
+      {
+        "half": "1 Half",
+        "time": "10",
+        "event_type": "TimeOut",
+        "raider": "",
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Commentary 1 st Half: 10' TimeOut Raider :"
+      },
+      {
+        "half": "1 Half",
+        "time": "10",
+        "event_type": "Successful Raid",
+        "raider": "Ankit Kumar Rana",
+        "team": null,
+        "players_out": [
+          "Ankit"
+        ],
+        "tackled_by": null,
+        "do_or_die": true,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Ankit Kumar Rana executes a successful raid, getting Ankit out."
+      },
+      {
+        "half": "1 Half",
+        "time": "10",
+        "event_type": "Empty Raid",
+        "raider": "Vijay Malik",
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Vijay Malik makes an empty raid."
+      },
+      {
+        "half": "1 Half",
+        "time": "11",
+        "event_type": "Empty Raid",
+        "raider": "Milan Dahiya",
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Milan Dahiya makes an empty raid."
+      },
+      {
+        "half": "1 Half",
+        "time": "11",
+        "event_type": "Empty Raid",
+        "raider": "Vijay Malik",
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Vijay Malik makes an empty raid."
+      },
+      {
+        "half": "1 Half",
+        "time": "11",
+        "event_type": "Empty Raid",
+        "raider": "Ankit Kumar Rana",
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Ankit Kumar Rana makes an empty raid."
+      },
+      {
+        "half": "1 Half",
+        "time": "12",
+        "event_type": "Successful Raid",
+        "raider": "Bharat",
+        "team": null,
+        "players_out": [
+          "Balaji D",
+          "Deepak"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 2,
+        "description": "Bharat executes a successful raid, getting Balaji D and Deepak out."
+      },
+      {
+        "half": "1 Half",
+        "time": "12",
+        "event_type": "Successful Raid",
+        "raider": "Ankit Kumar Rana",
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Ankit Kumar Rana executes a successful raid."
+      },
+      {
+        "half": "1 Half",
+        "time": "13",
+        "event_type": "Successful Raid",
+        "raider": "Bharat",
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Bharat executes a successful raid."
+      },
+      {
+        "half": "1 Half",
+        "time": "13",
+        "event_type": "Unsuccessful Raid",
+        "raider": "Ayan",
+        "team": null,
+        "players_out": [],
+        "tackled_by": "Ajit Pawar",
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Ayan is tackled by Ajit Pawar on an unsuccessful raid."
+      },
+      {
+        "half": "1 Half",
+        "time": "14",
+        "event_type": "Substitution",
+        "raider": null,
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": {
+          "in": "Avi Duhan",
+          "out": "Praful Zaware"
+        },
+        "points": 0,
+        "description": "Substitution: In: Avi Duhan; Out: Praful Zaware."
+      },
+      {
+        "half": "1 Half",
+        "time": "14",
+        "event_type": "Unsuccessful Raid",
+        "raider": "Vijay Malik",
+        "team": null,
+        "players_out": [],
+        "tackled_by": "Navdeep",
+        "do_or_die": false,
+        "all_out": true,
+        "substitution": null,
+        "points": 0,
+        "description": "Vijay Malik is tackled by Navdeep on an unsuccessful raid."
+      },
+      {
+        "half": "1 Half",
+        "time": "14",
+        "event_type": "Successful Raid",
+        "raider": "Ayan",
+        "team": null,
+        "players_out": [
+          "Shubham Shinde"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Ayan executes a successful raid, getting Shubham Shinde out."
+      },
+      {
+        "half": "1 Half",
+        "time": "15",
+        "event_type": "Successful Raid",
+        "raider": "Vijay Malik",
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Vijay Malik executes a successful raid."
+      },
+      {
+        "half": "1 Half",
+        "time": "15",
+        "event_type": "Successful Raid",
+        "raider": "Ayan",
+        "team": null,
+        "players_out": [
+          "Ankit",
+          "Praful Zaware"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 2,
+        "description": "Ayan executes a successful raid, getting Ankit and Praful Zaware out."
+      },
+      {
+        "half": "1 Half",
+        "time": "16",
+        "event_type": "Successful Raid",
+        "raider": "Praful Zaware",
+        "team": null,
+        "players_out": [
+          "Ankit"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Praful Zaware executes a successful raid, getting Ankit out."
+      },
+      {
+        "half": "1 Half",
+        "time": "16",
+        "event_type": "Substitution",
+        "raider": null,
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": {
+          "in": "Praful Zaware",
+          "out": "Avi Duhan"
+        },
+        "points": 0,
+        "description": "Substitution: In: Praful Zaware; Out: Avi Duhan."
+      },
+      {
+        "half": "1 Half",
+        "time": "16",
+        "event_type": "Successful Raid",
+        "raider": "Ayan",
+        "team": null,
+        "players_out": [
+          "Ajit Pawar"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Ayan executes a successful raid, getting Ajit Pawar out."
+      },
+      {
+        "half": "1 Half",
+        "time": "17",
+        "event_type": "Unsuccessful Raid",
+        "raider": "Bharat",
+        "team": null,
+        "players_out": [],
+        "tackled_by": "Navdeep",
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Bharat is tackled by Navdeep on an unsuccessful raid."
+      },
+      {
+        "half": "1 Half",
+        "time": "17",
+        "event_type": "Empty Raid",
+        "raider": "Milan Dahiya",
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Milan Dahiya makes an empty raid."
+      },
+      {
+        "half": "1 Half",
+        "time": "18",
+        "event_type": "Empty Raid",
+        "raider": "Bharat",
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Bharat makes an empty raid."
+      },
+      {
+        "half": "1 Half",
+        "time": "18",
+        "event_type": "Successful Raid",
+        "raider": "Ayan",
+        "team": null,
+        "players_out": [
+          "Chetan Sahu"
+        ],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 1,
+        "description": "Ayan executes a successful raid, getting Chetan Sahu out."
+      },
+      {
+        "half": "1 Half",
+        "time": "19",
+        "event_type": "Unsuccessful Raid",
+        "raider": "Vijay Malik",
+        "team": null,
+        "players_out": [],
+        "tackled_by": "Deepak",
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Vijay Malik is tackled by Deepak on an unsuccessful raid."
+      },
+      {
+        "half": "1 Half",
+        "time": "19",
+        "event_type": "Unsuccessful Raid",
+        "raider": "Ayan",
+        "team": null,
+        "players_out": [],
+        "tackled_by": "Shubham Shinde",
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Ayan is tackled by Shubham Shinde on an unsuccessful raid."
+      },
+      {
+        "half": null,
+        "time": null,
+        "event_type": "Toss",
+        "raider": null,
+        "team": null,
+        "players_out": [],
+        "tackled_by": null,
+        "do_or_die": false,
+        "all_out": false,
+        "substitution": null,
+        "points": 0,
+        "description": "Toss"
+      }
+    ]
+  }
+]

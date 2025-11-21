@@ -1,0 +1,11 @@
+pattern,support,gain
+bonus_success_U.P._Yoddha_vs_Puneri_Paltan_right_cover_early_zero||doordie_unknown_U.P._Yoddha_vs_Puneri_Paltan_none_early_zero,1,0.0
+doordie_unknown_U.P._Yoddha_vs_Puneri_Paltan_none_early_zero||doordie_success_U.P._Yoddha_vs_Puneri_Paltan_none_early_single,1,0.0
+doordie_success_U.P._Yoddha_vs_Puneri_Paltan_none_early_single||doordie_unknown_U.P._Yoddha_vs_Puneri_Paltan_none_early_zero,1,0.0
+doordie_unknown_U.P._Yoddha_vs_Puneri_Paltan_none_early_zero||doordie_unknown_U.P._Yoddha_vs_Puneri_Paltan_none_early_zero,1,0.0
+doordie_unknown_U.P._Yoddha_vs_Puneri_Paltan_none_early_zero,3,-1.0
+doordie_success_U.P._Yoddha_vs_Puneri_Paltan_none_early_single,3,-1.0
+bonus_success_U.P._Yoddha_vs_Puneri_Paltan_right_cover_early_zero,1,-1.0
+bonus_success_U.P._Yoddha_vs_Puneri_Paltan_left_corner_early_zero,1,-1.0
+bonus_success_U.P._Yoddha_vs_Puneri_Paltan_raider_early_zero,1,-1.0
+doordie_success_U.P._Yoddha_vs_Puneri_Paltan_none_early_high,1,-1.0

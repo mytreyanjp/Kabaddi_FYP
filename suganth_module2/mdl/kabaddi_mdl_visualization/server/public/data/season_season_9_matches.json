@@ -1,0 +1,1787 @@
+{
+  "season": "Season 9",
+  "total_matches": 137,
+  "matches": [
+    {
+      "match_id": "3349",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3349-scorecard",
+      "team_a": {
+        "name": "Jaipur Pink Panthers",
+        "score": "33"
+      },
+      "team_b": {
+        "name": "Puneri Paltan",
+        "score": "29"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3348",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3348-scorecard",
+      "team_a": {
+        "name": "Puneri Paltan",
+        "score": "39"
+      },
+      "team_b": {
+        "name": "Tamil Thalaivas",
+        "score": "37"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3347",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3347-scorecard",
+      "team_a": {
+        "name": "Jaipur Pink Panthers",
+        "score": "49"
+      },
+      "team_b": {
+        "name": "Bengaluru Bulls",
+        "score": "29"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3346",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3346-scorecard",
+      "team_a": {
+        "name": "U.P. Yoddhas",
+        "score": "36"
+      },
+      "team_b": {
+        "name": "5 Raids",
+        "score": "4"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3345",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3345-scorecard",
+      "team_a": {
+        "name": "Bengaluru Bulls",
+        "score": "56"
+      },
+      "team_b": {
+        "name": "Dabang Delhi K.C.",
+        "score": "24"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3344",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3344-scorecard",
+      "team_a": {
+        "name": "Patna Pirates",
+        "score": "49"
+      },
+      "team_b": {
+        "name": "Bengal Warriors",
+        "score": "38"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3343",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3343-scorecard",
+      "team_a": {
+        "name": "Tamil Thalaivas",
+        "score": "38"
+      },
+      "team_b": {
+        "name": "Haryana Steelers",
+        "score": "61"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3342",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3342-scorecard",
+      "team_a": {
+        "name": "Bengaluru Bulls",
+        "score": "30"
+      },
+      "team_b": {
+        "name": "U Mumba",
+        "score": "36"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3341",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3341-scorecard",
+      "team_a": {
+        "name": "Puneri Paltan",
+        "score": "41"
+      },
+      "team_b": {
+        "name": "U.P. Yoddhas",
+        "score": "45"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3340",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3340-scorecard",
+      "team_a": {
+        "name": "Gujarat Giants",
+        "score": "51"
+      },
+      "team_b": {
+        "name": "Jaipur Pink Panthers",
+        "score": "51"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3339",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3339-scorecard",
+      "team_a": {
+        "name": "Haryana Steelers",
+        "score": "50"
+      },
+      "team_b": {
+        "name": "Telugu Titans",
+        "score": "33"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3338",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3338-scorecard",
+      "team_a": {
+        "name": "Bengal Warriors",
+        "score": "46"
+      },
+      "team_b": {
+        "name": "Dabang Delhi K.C.",
+        "score": "46"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3337",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3337-scorecard",
+      "team_a": {
+        "name": "Tamil Thalaivas",
+        "score": "43"
+      },
+      "team_b": {
+        "name": "U.P. Yoddhas",
+        "score": "28"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3336",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3336-scorecard",
+      "team_a": {
+        "name": "Patna Pirates",
+        "score": "44"
+      },
+      "team_b": {
+        "name": "Bengaluru Bulls",
+        "score": "57"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3335",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3335-scorecard",
+      "team_a": {
+        "name": "Gujarat Giants",
+        "score": "44"
+      },
+      "team_b": {
+        "name": "Telugu Titans",
+        "score": "30"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3334",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3334-scorecard",
+      "team_a": {
+        "name": "U Mumba",
+        "score": "24"
+      },
+      "team_b": {
+        "name": "Dabang Delhi K.C.",
+        "score": "41"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3333",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3333-scorecard",
+      "team_a": {
+        "name": "Jaipur Pink Panthers",
+        "score": "44"
+      },
+      "team_b": {
+        "name": "Haryana Steelers",
+        "score": "30"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3332",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3332-scorecard",
+      "team_a": {
+        "name": "Puneri Paltan",
+        "score": "44"
+      },
+      "team_b": {
+        "name": "Patna Pirates",
+        "score": "30"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3331",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3331-scorecard",
+      "team_a": {
+        "name": "Bengaluru Bulls",
+        "score": "38"
+      },
+      "team_b": {
+        "name": "U.P. Yoddhas",
+        "score": "35"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3330",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3330-scorecard",
+      "team_a": {
+        "name": "U Mumba",
+        "score": "36"
+      },
+      "team_b": {
+        "name": "Gujarat Giants",
+        "score": "38"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3329",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3329-scorecard",
+      "team_a": {
+        "name": "Jaipur Pink Panthers",
+        "score": "57"
+      },
+      "team_b": {
+        "name": "Bengal Warriors",
+        "score": "31"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3328",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3328-scorecard",
+      "team_a": {
+        "name": "Telugu Titans",
+        "score": "24"
+      },
+      "team_b": {
+        "name": "Tamil Thalaivas",
+        "score": "52"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3327",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3327-scorecard",
+      "team_a": {
+        "name": "Dabang Delhi K.C.",
+        "score": "44"
+      },
+      "team_b": {
+        "name": "Puneri Paltan",
+        "score": "47"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3326",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3326-scorecard",
+      "team_a": {
+        "name": "Haryana Steelers",
+        "score": "32"
+      },
+      "team_b": {
+        "name": "Bengal Warriors",
+        "score": "26"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3325",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3325-scorecard",
+      "team_a": {
+        "name": "Patna Pirates",
+        "score": "34"
+      },
+      "team_b": {
+        "name": "Gujarat Giants",
+        "score": "40"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3324",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3324-scorecard",
+      "team_a": {
+        "name": "U.P. Yoddhas",
+        "score": "38"
+      },
+      "team_b": {
+        "name": "U Mumba",
+        "score": "28"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3323",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3323-scorecard",
+      "team_a": {
+        "name": "Dabang Delhi K.C.",
+        "score": "37"
+      },
+      "team_b": {
+        "name": "Tamil Thalaivas",
+        "score": "37"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3322",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3322-scorecard",
+      "team_a": {
+        "name": "Bengaluru Bulls",
+        "score": "25"
+      },
+      "team_b": {
+        "name": "Jaipur Pink Panthers",
+        "score": "45"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3321",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3321-scorecard",
+      "team_a": {
+        "name": "Haryana Steelers",
+        "score": "35"
+      },
+      "team_b": {
+        "name": "U Mumba",
+        "score": "33"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3320",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3320-scorecard",
+      "team_a": {
+        "name": "Puneri Paltan",
+        "score": "39"
+      },
+      "team_b": {
+        "name": "Gujarat Giants",
+        "score": "51"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3319",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3319-scorecard",
+      "team_a": {
+        "name": "Telugu Titans",
+        "score": "28"
+      },
+      "team_b": {
+        "name": "Jaipur Pink Panthers",
+        "score": "48"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3318",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3318-scorecard",
+      "team_a": {
+        "name": "U.P. Yoddhas",
+        "score": "33"
+      },
+      "team_b": {
+        "name": "Bengal Warriors",
+        "score": "32"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3317",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3317-scorecard",
+      "team_a": {
+        "name": "Dabang Delhi K.C.",
+        "score": "49"
+      },
+      "team_b": {
+        "name": "Bengaluru Bulls",
+        "score": "52"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3316",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3316-scorecard",
+      "team_a": {
+        "name": "Tamil Thalaivas",
+        "score": "42"
+      },
+      "team_b": {
+        "name": "Gujarat Giants",
+        "score": "39"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3315",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3315-scorecard",
+      "team_a": {
+        "name": "U.P. Yoddhas",
+        "score": "35"
+      },
+      "team_b": {
+        "name": "Patna Pirates",
+        "score": "33"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3314",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3314-scorecard",
+      "team_a": {
+        "name": "Puneri Paltan",
+        "score": "38"
+      },
+      "team_b": {
+        "name": "Telugu Titans",
+        "score": "25"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3313",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3313-scorecard",
+      "team_a": {
+        "name": "U Mumba",
+        "score": "49"
+      },
+      "team_b": {
+        "name": "Bengal Warriors",
+        "score": "41"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3312",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3312-scorecard",
+      "team_a": {
+        "name": "Haryana Steelers",
+        "score": "33"
+      },
+      "team_b": {
+        "name": "Patna Pirates",
+        "score": "23"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3311",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3311-scorecard",
+      "team_a": {
+        "name": "Jaipur Pink Panthers",
+        "score": "41"
+      },
+      "team_b": {
+        "name": "Tamil Thalaivas",
+        "score": "26"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3310",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3310-scorecard",
+      "team_a": {
+        "name": "Gujarat Giants",
+        "score": "47"
+      },
+      "team_b": {
+        "name": "Dabang Delhi K.C.",
+        "score": "50"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3309",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3309-scorecard",
+      "team_a": {
+        "name": "Bengal Warriors",
+        "score": "41"
+      },
+      "team_b": {
+        "name": "Bengaluru Bulls",
+        "score": "38"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3308",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3308-scorecard",
+      "team_a": {
+        "name": "Jaipur Pink Panthers",
+        "score": "32"
+      },
+      "team_b": {
+        "name": "Puneri Paltan",
+        "score": "39"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3307",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3307-scorecard",
+      "team_a": {
+        "name": "Telugu Titans",
+        "score": "35"
+      },
+      "team_b": {
+        "name": "Patna Pirates",
+        "score": "36"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3306",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3306-scorecard",
+      "team_a": {
+        "name": "U Mumba",
+        "score": "20"
+      },
+      "team_b": {
+        "name": "Tamil Thalaivas",
+        "score": "34"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3304",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3304-scorecard",
+      "team_a": {
+        "name": "U.P. Yoddhas",
+        "score": "35"
+      },
+      "team_b": {
+        "name": "Gujarat Giants",
+        "score": "31"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3303",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3303-scorecard",
+      "team_a": {
+        "name": "Tamil Thalaivas",
+        "score": "35"
+      },
+      "team_b": {
+        "name": "Bengal Warriors",
+        "score": "30"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3301",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3301-scorecard",
+      "team_a": {
+        "name": "Bengaluru Bulls",
+        "score": "33"
+      },
+      "team_b": {
+        "name": "Puneri Paltan",
+        "score": "35"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3300",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3300-scorecard",
+      "team_a": {
+        "name": "Haryana Steelers",
+        "score": "30"
+      },
+      "team_b": {
+        "name": "Dabang Delhi K.C.",
+        "score": "42"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3299",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3299-scorecard",
+      "team_a": {
+        "name": "Dabang Delhi K.C.",
+        "score": "30"
+      },
+      "team_b": {
+        "name": "Patna Pirates",
+        "score": "27"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3298",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3298-scorecard",
+      "team_a": {
+        "name": "Telugu Titans",
+        "score": "32"
+      },
+      "team_b": {
+        "name": "U Mumba",
+        "score": "26"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3297",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3297-scorecard",
+      "team_a": {
+        "name": "U.P. Yoddhas",
+        "score": "29"
+      },
+      "team_b": {
+        "name": "Jaipur Pink Panthers",
+        "score": "42"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3296",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3296-scorecard",
+      "team_a": {
+        "name": "Gujarat Giants",
+        "score": "38"
+      },
+      "team_b": {
+        "name": "Bengaluru Bulls",
+        "score": "45"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3295",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3295-scorecard",
+      "team_a": {
+        "name": "Bengal Warriors",
+        "score": "36"
+      },
+      "team_b": {
+        "name": "Telugu Titans",
+        "score": "28"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3294",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3294-scorecard",
+      "team_a": {
+        "name": "Puneri Paltan",
+        "score": "41"
+      },
+      "team_b": {
+        "name": "Haryana Steelers",
+        "score": "28"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3293",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3293-scorecard",
+      "team_a": {
+        "name": "Dabang Delhi K.C.",
+        "score": "31"
+      },
+      "team_b": {
+        "name": "U.P. Yoddhas",
+        "score": "50"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3292",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3292-scorecard",
+      "team_a": {
+        "name": "Patna Pirates",
+        "score": "33"
+      },
+      "team_b": {
+        "name": "Tamil Thalaivas",
+        "score": "33"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3291",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3291-scorecard",
+      "team_a": {
+        "name": "Telugu Titans",
+        "score": "38"
+      },
+      "team_b": {
+        "name": "Bengaluru Bulls",
+        "score": "49"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3290",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3290-scorecard",
+      "team_a": {
+        "name": "Jaipur Pink Panthers",
+        "score": "32"
+      },
+      "team_b": {
+        "name": "U Mumba",
+        "score": "22"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3289",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3289-scorecard",
+      "team_a": {
+        "name": "Gujarat Giants",
+        "score": "32"
+      },
+      "team_b": {
+        "name": "Haryana Steelers",
+        "score": "33"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3288",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3288-scorecard",
+      "team_a": {
+        "name": "Bengal Warriors",
+        "score": "27"
+      },
+      "team_b": {
+        "name": "Puneri Paltan",
+        "score": "43"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3287",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3287-scorecard",
+      "team_a": {
+        "name": "Tamil Thalaivas",
+        "score": "34"
+      },
+      "team_b": {
+        "name": "Bengaluru Bulls",
+        "score": "40"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3286",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3286-scorecard",
+      "team_a": {
+        "name": "U Mumba",
+        "score": "36"
+      },
+      "team_b": {
+        "name": "Patna Pirates",
+        "score": "23"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3285",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3285-scorecard",
+      "team_a": {
+        "name": "Jaipur Pink Panthers",
+        "score": "57"
+      },
+      "team_b": {
+        "name": "Dabang Delhi K.C.",
+        "score": "32"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3284",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3284-scorecard",
+      "team_a": {
+        "name": "Telugu Titans",
+        "score": "30"
+      },
+      "team_b": {
+        "name": "U.P. Yoddhas",
+        "score": "41"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3283",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3283-scorecard",
+      "team_a": {
+        "name": "Bengal Warriors",
+        "score": "46"
+      },
+      "team_b": {
+        "name": "Gujarat Giants",
+        "score": "27"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3282",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3282-scorecard",
+      "team_a": {
+        "name": "Patna Pirates",
+        "score": "37"
+      },
+      "team_b": {
+        "name": "Jaipur Pink Panthers",
+        "score": "30"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3281",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3281-scorecard",
+      "team_a": {
+        "name": "U Mumba",
+        "score": "34"
+      },
+      "team_b": {
+        "name": "Puneri Paltan",
+        "score": "33"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3280",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3280-scorecard",
+      "team_a": {
+        "name": "U.P. Yoddhas",
+        "score": "40"
+      },
+      "team_b": {
+        "name": "Haryana Steelers",
+        "score": "34"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3279",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3279-scorecard",
+      "team_a": {
+        "name": "Tamil Thalaivas",
+        "score": "34"
+      },
+      "team_b": {
+        "name": "Puneri Paltan",
+        "score": "35"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3278",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3278-scorecard",
+      "team_a": {
+        "name": "Bengaluru Bulls",
+        "score": "36"
+      },
+      "team_b": {
+        "name": "Haryana Steelers",
+        "score": "33"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3255",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3255-scorecard",
+      "team_a": {
+        "name": "Dabang Delhi K.C.",
+        "score": "40"
+      },
+      "team_b": {
+        "name": "Telugu Titans",
+        "score": "33"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3250",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3250-scorecard",
+      "team_a": {
+        "name": "Bengal Warriors",
+        "score": "41"
+      },
+      "team_b": {
+        "name": "U.P. Yoddhas",
+        "score": "41"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3249",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3249-scorecard",
+      "team_a": {
+        "name": "Patna Pirates",
+        "score": "41"
+      },
+      "team_b": {
+        "name": "Haryana Steelers",
+        "score": "32"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3248",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3248-scorecard",
+      "team_a": {
+        "name": "U Mumba",
+        "score": "39"
+      },
+      "team_b": {
+        "name": "Jaipur Pink Panthers",
+        "score": "42"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3247",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3247-scorecard",
+      "team_a": {
+        "name": "Puneri Paltan",
+        "score": "34"
+      },
+      "team_b": {
+        "name": "Tamil Thalaivas",
+        "score": "35"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3246",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3246-scorecard",
+      "team_a": {
+        "name": "Bengaluru Bulls",
+        "score": "44"
+      },
+      "team_b": {
+        "name": "Gujarat Giants",
+        "score": "46"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3245",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3245-scorecard",
+      "team_a": {
+        "name": "Haryana Steelers",
+        "score": "36"
+      },
+      "team_b": {
+        "name": "U.P. Yoddhas",
+        "score": "36"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3244",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3244-scorecard",
+      "team_a": {
+        "name": "Tamil Thalaivas",
+        "score": "39"
+      },
+      "team_b": {
+        "name": "Telugu Titans",
+        "score": "31"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3243",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3243-scorecard",
+      "team_a": {
+        "name": "Gujarat Giants",
+        "score": "40"
+      },
+      "team_b": {
+        "name": "Bengal Warriors",
+        "score": "45"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3242",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3242-scorecard",
+      "team_a": {
+        "name": "U.P. Yoddhas",
+        "score": "31"
+      },
+      "team_b": {
+        "name": "Puneri Paltan",
+        "score": "40"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3241",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3241-scorecard",
+      "team_a": {
+        "name": "Dabang Delhi K.C.",
+        "score": "40"
+      },
+      "team_b": {
+        "name": "Jaipur Pink Panthers",
+        "score": "45"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3240",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3240-scorecard",
+      "team_a": {
+        "name": "Patna Pirates",
+        "score": "34"
+      },
+      "team_b": {
+        "name": "U Mumba",
+        "score": "31"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3239",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3239-scorecard",
+      "team_a": {
+        "name": "Bengal Warriors",
+        "score": "41"
+      },
+      "team_b": {
+        "name": "Tamil Thalaivas",
+        "score": "41"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3238",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3238-scorecard",
+      "team_a": {
+        "name": "U Mumba",
+        "score": "40"
+      },
+      "team_b": {
+        "name": "Telugu Titans",
+        "score": "37"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3237",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3237-scorecard",
+      "team_a": {
+        "name": "Haryana Steelers",
+        "score": "29"
+      },
+      "team_b": {
+        "name": "Bengaluru Bulls",
+        "score": "27"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3236",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3236-scorecard",
+      "team_a": {
+        "name": "Puneri Paltan",
+        "score": "43"
+      },
+      "team_b": {
+        "name": "Dabang Delhi K.C.",
+        "score": "38"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3235",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3235-scorecard",
+      "team_a": {
+        "name": "U.P. Yoddhas",
+        "score": "43"
+      },
+      "team_b": {
+        "name": "Telugu Titans",
+        "score": "24"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3234",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3234-scorecard",
+      "team_a": {
+        "name": "Gujarat Giants",
+        "score": "28"
+      },
+      "team_b": {
+        "name": "Patna Pirates",
+        "score": "34"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3233",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3233-scorecard",
+      "team_a": {
+        "name": "Tamil Thalaivas",
+        "score": "49"
+      },
+      "team_b": {
+        "name": "Dabang Delhi K.C.",
+        "score": "39"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3232",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3232-scorecard",
+      "team_a": {
+        "name": "Jaipur Pink Panthers",
+        "score": "31"
+      },
+      "team_b": {
+        "name": "Bengaluru Bulls",
+        "score": "37"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3231",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3231-scorecard",
+      "team_a": {
+        "name": "Bengal Warriors",
+        "score": "25"
+      },
+      "team_b": {
+        "name": "U Mumba",
+        "score": "36"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3230",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3230-scorecard",
+      "team_a": {
+        "name": "Telugu Titans",
+        "score": "19"
+      },
+      "team_b": {
+        "name": "Gujarat Giants",
+        "score": "30"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3229",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3229-scorecard",
+      "team_a": {
+        "name": "Bengaluru Bulls",
+        "score": "47"
+      },
+      "team_b": {
+        "name": "Dabang Delhi K.C.",
+        "score": "43"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3228",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3228-scorecard",
+      "team_a": {
+        "name": "Patna Pirates",
+        "score": "34"
+      },
+      "team_b": {
+        "name": "U.P. Yoddhas",
+        "score": "29"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3227",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3227-scorecard",
+      "team_a": {
+        "name": "Haryana Steelers",
+        "score": "27"
+      },
+      "team_b": {
+        "name": "Puneri Paltan",
+        "score": "27"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3226",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3226-scorecard",
+      "team_a": {
+        "name": "Tamil Thalaivas",
+        "score": "38"
+      },
+      "team_b": {
+        "name": "Jaipur Pink Panthers",
+        "score": "27"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3225",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3225-scorecard",
+      "team_a": {
+        "name": "Dabang Delhi K.C.",
+        "score": "30"
+      },
+      "team_b": {
+        "name": "Bengal Warriors",
+        "score": "35"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3224",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3224-scorecard",
+      "team_a": {
+        "name": "Gujarat Giants",
+        "score": "29"
+      },
+      "team_b": {
+        "name": "U Mumba",
+        "score": "37"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3223",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3223-scorecard",
+      "team_a": {
+        "name": "Telugu Titans",
+        "score": "24"
+      },
+      "team_b": {
+        "name": "Haryana Steelers",
+        "score": "43"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3222",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3222-scorecard",
+      "team_a": {
+        "name": "Puneri Paltan",
+        "score": "32"
+      },
+      "team_b": {
+        "name": "Jaipur Pink Panthers",
+        "score": "24"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3221",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3221-scorecard",
+      "team_a": {
+        "name": "U.P. Yoddhas",
+        "score": "41"
+      },
+      "team_b": {
+        "name": "Tamil Thalaivas",
+        "score": "24"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3220",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3220-scorecard",
+      "team_a": {
+        "name": "Bengaluru Bulls",
+        "score": "31"
+      },
+      "team_b": {
+        "name": "Patna Pirates",
+        "score": "31"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3219",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3219-scorecard",
+      "team_a": {
+        "name": "Haryana Steelers",
+        "score": "38"
+      },
+      "team_b": {
+        "name": "Gujarat Giants",
+        "score": "42"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3218",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3218-scorecard",
+      "team_a": {
+        "name": "Jaipur Pink Panthers",
+        "score": "51"
+      },
+      "team_b": {
+        "name": "Telugu Titans",
+        "score": "27"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3217",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3217-scorecard",
+      "team_a": {
+        "name": "U Mumba",
+        "score": "32"
+      },
+      "team_b": {
+        "name": "Bengaluru Bulls",
+        "score": "42"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3216",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3216-scorecard",
+      "team_a": {
+        "name": "Patna Pirates",
+        "score": "37"
+      },
+      "team_b": {
+        "name": "Dabang Delhi K.C.",
+        "score": "33"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3215",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3215-scorecard",
+      "team_a": {
+        "name": "Puneri Paltan",
+        "score": "27"
+      },
+      "team_b": {
+        "name": "Bengal Warriors",
+        "score": "25"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3214",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3214-scorecard",
+      "team_a": {
+        "name": "U Mumba",
+        "score": "32"
+      },
+      "team_b": {
+        "name": "Haryana Steelers",
+        "score": "31"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3213",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3213-scorecard",
+      "team_a": {
+        "name": "Bengaluru Bulls",
+        "score": "45"
+      },
+      "team_b": {
+        "name": "Tamil Thalaivas",
+        "score": "28"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3212",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3212-scorecard",
+      "team_a": {
+        "name": "Gujarat Giants",
+        "score": "51"
+      },
+      "team_b": {
+        "name": "U.P. Yoddhas",
+        "score": "45"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3211",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3211-scorecard",
+      "team_a": {
+        "name": "Telugu Titans",
+        "score": "25"
+      },
+      "team_b": {
+        "name": "Puneri Paltan",
+        "score": "26"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3210",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3210-scorecard",
+      "team_a": {
+        "name": "Bengal Warriors",
+        "score": "24"
+      },
+      "team_b": {
+        "name": "Jaipur Pink Panthers",
+        "score": "39"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3209",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3209-scorecard",
+      "team_a": {
+        "name": "Dabang Delhi K.C.",
+        "score": "38"
+      },
+      "team_b": {
+        "name": "Haryana Steelers",
+        "score": "36"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3208",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3208-scorecard",
+      "team_a": {
+        "name": "Tamil Thalaivas",
+        "score": "33"
+      },
+      "team_b": {
+        "name": "Patna Pirates",
+        "score": "32"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3207",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3207-scorecard",
+      "team_a": {
+        "name": "U.P. Yoddhas",
+        "score": "44"
+      },
+      "team_b": {
+        "name": "Bengaluru Bulls",
+        "score": "37"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3206",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3206-scorecard",
+      "team_a": {
+        "name": "Puneri Paltan",
+        "score": "30"
+      },
+      "team_b": {
+        "name": "U Mumba",
+        "score": "28"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3205",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3205-scorecard",
+      "team_a": {
+        "name": "Bengal Warriors",
+        "score": "54"
+      },
+      "team_b": {
+        "name": "Patna Pirates",
+        "score": "26"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3204",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3204-scorecard",
+      "team_a": {
+        "name": "Telugu Titans",
+        "score": "26"
+      },
+      "team_b": {
+        "name": "Dabang Delhi K.C.",
+        "score": "46"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3203",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3203-scorecard",
+      "team_a": {
+        "name": "Jaipur Pink Panthers",
+        "score": "25"
+      },
+      "team_b": {
+        "name": "Gujarat Giants",
+        "score": "18"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3202",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3202-scorecard",
+      "team_a": {
+        "name": "Gujarat Giants",
+        "score": "47"
+      },
+      "team_b": {
+        "name": "Puneri Paltan",
+        "score": "37"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3201",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3201-scorecard",
+      "team_a": {
+        "name": "Haryana Steelers",
+        "score": "31"
+      },
+      "team_b": {
+        "name": "Jaipur Pink Panthers",
+        "score": "44"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3200",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3200-scorecard",
+      "team_a": {
+        "name": "Tamil Thalaivas",
+        "score": "32"
+      },
+      "team_b": {
+        "name": "U Mumba",
+        "score": "39"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3199",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3199-scorecard",
+      "team_a": {
+        "name": "U.P. Yoddhas",
+        "score": "42"
+      },
+      "team_b": {
+        "name": "Dabang Delhi K.C.",
+        "score": "44"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3198",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3198-scorecard",
+      "team_a": {
+        "name": "Bengaluru Bulls",
+        "score": "33"
+      },
+      "team_b": {
+        "name": "Bengal Warriorz",
+        "score": "41"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3197",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3197-scorecard",
+      "team_a": {
+        "name": "Patna Pirates",
+        "score": "21"
+      },
+      "team_b": {
+        "name": "Telugu Titans",
+        "score": "30"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3196",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3196-scorecard",
+      "team_a": {
+        "name": "Haryana Steelers",
+        "score": "27"
+      },
+      "team_b": {
+        "name": "Tamil Thalaivas",
+        "score": "22"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3195",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3195-scorecard",
+      "team_a": {
+        "name": "Dabang Delhi K.C.",
+        "score": "53"
+      },
+      "team_b": {
+        "name": "Gujarat Giants",
+        "score": "33"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3194",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3194-scorecard",
+      "team_a": {
+        "name": "U Mumba",
+        "score": "30"
+      },
+      "team_b": {
+        "name": "U.P. Yoddhas",
+        "score": "23"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3193",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3193-scorecard",
+      "team_a": {
+        "name": "Puneri Paltan",
+        "score": "39"
+      },
+      "team_b": {
+        "name": "Bengaluru Bulls",
+        "score": "41"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3192",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3192-scorecard",
+      "team_a": {
+        "name": "Telugu Titans",
+        "score": "25"
+      },
+      "team_b": {
+        "name": "Bengal Warriors",
+        "score": "45"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3191",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3191-scorecard",
+      "team_a": {
+        "name": "Jaipur Pink Panthers",
+        "score": "35"
+      },
+      "team_b": {
+        "name": "Patna Pirates",
+        "score": "30"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3190",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3190-scorecard",
+      "team_a": {
+        "name": "Bengal Warriors",
+        "score": "33"
+      },
+      "team_b": {
+        "name": "Haryana Steelers",
+        "score": "41"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3189",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3189-scorecard",
+      "team_a": {
+        "name": "Gujarat Giants",
+        "score": "31"
+      },
+      "team_b": {
+        "name": "Tamil Thalaivas",
+        "score": "31"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3188",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3188-scorecard",
+      "team_a": {
+        "name": "Patna Pirates",
+        "score": "34"
+      },
+      "team_b": {
+        "name": "Puneri Paltan",
+        "score": "34"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3187",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3187-scorecard",
+      "team_a": {
+        "name": "Jaipur Pink Panthers",
+        "score": "32"
+      },
+      "team_b": {
+        "name": "U.P. Yoddhas",
+        "score": "34"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3186",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3186-scorecard",
+      "team_a": {
+        "name": "Bengaluru Bulls",
+        "score": "34"
+      },
+      "team_b": {
+        "name": "Telugu Titans",
+        "score": "29"
+      },
+      "status": "FT"
+    },
+    {
+      "match_id": "3185",
+      "match_url": "https://www.prokabaddi.com/matchcentre/3185-scorecard",
+      "team_a": {
+        "name": "Dabang Delhi K.C.",
+        "score": "41"
+      },
+      "team_b": {
+        "name": "U Mumba",
+        "score": "27"
+      },
+      "status": "FT"
+    }
+  ]
+}

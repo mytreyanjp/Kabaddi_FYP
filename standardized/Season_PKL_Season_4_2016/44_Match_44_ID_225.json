@@ -1,0 +1,1495 @@
+{
+    "data": {
+        "match_id": 225,
+        "home_team": {},
+        "away_team": {},
+        "events": {
+            "event": [
+                {
+                    "event_no": 1,
+                    "event": "Unsuccessful Raid",
+                    "event_id": 2,
+                    "event_text": "Jasvir Singh Unsuccessful Raid",
+                    "raider_id": 52,
+                    "raiding_team_id": 3,
+                    "defender_id": 147,
+                    "defending_team_id": 2,
+                    "raid_points": 0,
+                    "defending_points": 1,
+                    "clock": "00:02",
+                    "score": [
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "event_no": 2,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Selvamani K Empty Raid",
+                    "raider_id": 264,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "00:40",
+                    "score": [
+                        0,
+                        1
+                    ]
+                },
+                {
+                    "event_no": 3,
+                    "event": "Unsuccessful Raid",
+                    "event_id": 2,
+                    "event_text": "Shabeer Bappu Unsuccessful Raid",
+                    "raider_id": 105,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 0,
+                    "defending_points": 1,
+                    "clock": "01:07",
+                    "score": [
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "event_no": 4,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Kashiling Adake Empty Raid",
+                    "raider_id": 58,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "01:40",
+                    "score": [
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "event_no": 5,
+                    "event": "Unsuccessful Raid",
+                    "event_id": 2,
+                    "event_text": "Rajesh Narwal Unsuccessful Raid",
+                    "raider_id": 86,
+                    "raiding_team_id": 3,
+                    "defender_id": 251,
+                    "defending_team_id": 2,
+                    "raid_points": 0,
+                    "defending_points": 1,
+                    "clock": "02:06",
+                    "score": [
+                        0,
+                        3
+                    ]
+                },
+                {
+                    "event_no": 6,
+                    "event": "TimeOut",
+                    "event_id": 8,
+                    "event_text": "Timeout taken by Umpire",
+                    "clock": "02:43",
+                    "team_id": 0
+                },
+                {
+                    "event_no": 7,
+                    "event": "Unsuccessful Raid",
+                    "event_id": 2,
+                    "event_text": "Prashant Kumar Rai Unsuccessful Raid",
+                    "raider_id": 155,
+                    "raiding_team_id": 2,
+                    "defender_id": 212,
+                    "defending_team_id": 3,
+                    "raid_points": 0,
+                    "defending_points": 1,
+                    "clock": "02:52",
+                    "score": [
+                        1,
+                        3
+                    ]
+                },
+                {
+                    "event_no": 8,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Jasvir Singh Empty Raid",
+                    "raider_id": 52,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "03:12",
+                    "score": [
+                        1,
+                        3
+                    ]
+                },
+                {
+                    "event_no": 9,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Kashiling Adake Empty Raid",
+                    "raider_id": 58,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "03:41",
+                    "score": [
+                        1,
+                        3
+                    ]
+                },
+                {
+                    "event_no": 10,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Ajay Kumar Empty Raid",
+                    "raider_id": 389,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "04:10",
+                    "score": [
+                        1,
+                        3
+                    ]
+                },
+                {
+                    "event_no": 11,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Selvamani K Empty Raid",
+                    "raider_id": 264,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "04:39",
+                    "score": [
+                        1,
+                        3
+                    ]
+                },
+                {
+                    "event_no": 12,
+                    "event": "Successful Raid",
+                    "event_id": 1,
+                    "event_text": "Ajay Kumar raids successfully",
+                    "raider_id": 389,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 1,
+                    "defending_points": 0,
+                    "clock": "05:07",
+                    "score": [
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "event_no": 13,
+                    "event": "Successful Raid",
+                    "event_id": 1,
+                    "event_text": "Kashiling Adake raids successfully",
+                    "raider_id": 58,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 1,
+                    "defending_points": 0,
+                    "clock": "05:36",
+                    "score": [
+                        2,
+                        4
+                    ]
+                },
+                {
+                    "event_no": 14,
+                    "event": "Successful Raid",
+                    "event_id": 1,
+                    "event_text": "Jasvir Singh raids successfully",
+                    "raider_id": 52,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 1,
+                    "defending_points": 0,
+                    "clock": "06:06",
+                    "score": [
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "event_no": 15,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Selvamani K Empty Raid",
+                    "raider_id": 264,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "06:40",
+                    "score": [
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "event_no": 16,
+                    "event": "Successful Raid",
+                    "event_id": 1,
+                    "event_text": "Jasvir Singh raids successfully",
+                    "raider_id": 52,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 1,
+                    "defending_points": 0,
+                    "clock": "07:09",
+                    "score": [
+                        4,
+                        4
+                    ]
+                },
+                {
+                    "event_no": 17,
+                    "event": "Unsuccessful Raid",
+                    "event_id": 2,
+                    "event_text": "Kashiling Adake Unsuccessful Raid",
+                    "raider_id": 58,
+                    "raiding_team_id": 2,
+                    "defender_id": 160,
+                    "defending_team_id": 3,
+                    "raid_points": 0,
+                    "defending_points": 1,
+                    "clock": "07:48",
+                    "score": [
+                        5,
+                        4
+                    ]
+                },
+                {
+                    "event_no": 18,
+                    "event": "Substitution",
+                    "event_id": 5,
+                    "event_text": "Selvamani K comes in for Ram Kumar Sah",
+                    "player_id": 264,
+                    "substituted_by": 89,
+                    "clock": "08:30",
+                    "team_id": 2
+                },
+                {
+                    "event_no": 19,
+                    "event": "Successful Raid",
+                    "event_id": 1,
+                    "event_text": "Jasvir Singh raids successfully",
+                    "raider_id": 52,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 1,
+                    "defending_points": 0,
+                    "clock": "08:37",
+                    "score": [
+                        6,
+                        4
+                    ]
+                },
+                {
+                    "event_no": 20,
+                    "event": "Substitution",
+                    "event_id": 5,
+                    "event_text": "Prashant Chavan comes in for Selvamani K",
+                    "player_id": 147,
+                    "substituted_by": 264,
+                    "clock": "09:07",
+                    "team_id": 2
+                },
+                {
+                    "event_no": 21,
+                    "event": "Unsuccessful Raid",
+                    "event_id": 2,
+                    "event_text": "Selvamani K Unsuccessful Raid",
+                    "raider_id": 264,
+                    "raiding_team_id": 2,
+                    "defender_id": 160,
+                    "defending_team_id": 3,
+                    "raid_points": 1,
+                    "defending_points": 3,
+                    "clock": "09:18",
+                    "score": [
+                        9,
+                        5
+                    ]
+                },
+                {
+                    "event_no": 22,
+                    "event": "Substitution",
+                    "event_id": 5,
+                    "event_text": "Ram Kumar Sah comes in for Prashant Chavan",
+                    "player_id": 89,
+                    "substituted_by": 147,
+                    "clock": "09:44",
+                    "team_id": 2
+                },
+                {
+                    "event_no": 23,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Ajay Kumar Empty Raid",
+                    "raider_id": 389,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "10:05",
+                    "score": [
+                        9,
+                        5
+                    ]
+                },
+                {
+                    "event_no": 24,
+                    "event": "Successful Raid",
+                    "event_id": 1,
+                    "event_text": "Kashiling Adake raids successfully",
+                    "raider_id": 58,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 1,
+                    "defending_points": 0,
+                    "clock": "10:34",
+                    "score": [
+                        9,
+                        6
+                    ]
+                },
+                {
+                    "event_no": 25,
+                    "event": "Non Raid Technical Points",
+                    "event_id": 6,
+                    "event_text": "Non Raid Technical Points",
+                    "team_id": 2,
+                    "reason": "Other",
+                    "reason_id": 24,
+                    "clock": "11:11",
+                    "score": [
+                        10,
+                        6
+                    ]
+                },
+                {
+                    "event_no": 26,
+                    "event": "Unsuccessful Raid",
+                    "event_id": 2,
+                    "event_text": "Rajesh Narwal Unsuccessful Raid",
+                    "raider_id": 86,
+                    "raiding_team_id": 3,
+                    "defender_id": 147,
+                    "defending_team_id": 2,
+                    "raid_points": 0,
+                    "defending_points": 1,
+                    "clock": "12:01",
+                    "score": [
+                        10,
+                        7
+                    ]
+                },
+                {
+                    "event_no": 27,
+                    "event": "Successful Raid",
+                    "event_id": 1,
+                    "event_text": "Kashiling Adake raids successfully",
+                    "raider_id": 58,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 2,
+                    "defending_points": 0,
+                    "clock": "12:04",
+                    "score": [
+                        10,
+                        9
+                    ]
+                },
+                {
+                    "event_no": 28,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Ajay Kumar Empty Raid",
+                    "raider_id": 389,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "12:25",
+                    "score": [
+                        10,
+                        9
+                    ]
+                },
+                {
+                    "event_no": 29,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Prashant Kumar Rai Empty Raid",
+                    "raider_id": 155,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "12:53",
+                    "score": [
+                        10,
+                        9
+                    ]
+                },
+                {
+                    "event_no": 30,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Jasvir Singh Empty Raid",
+                    "raider_id": 52,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "13:18",
+                    "score": [
+                        10,
+                        9
+                    ]
+                },
+                {
+                    "event_no": 31,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Selvamani K Empty Raid",
+                    "raider_id": 264,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "13:49",
+                    "score": [
+                        10,
+                        9
+                    ]
+                },
+                {
+                    "event_no": 32,
+                    "event": "Successful Raid",
+                    "event_id": 1,
+                    "event_text": "Ajay Kumar raids successfully",
+                    "raider_id": 389,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 1,
+                    "defending_points": 0,
+                    "clock": "14:15",
+                    "score": [
+                        11,
+                        9
+                    ]
+                },
+                {
+                    "event_no": 33,
+                    "event": "Unsuccessful Raid",
+                    "event_id": 2,
+                    "event_text": "Kashiling Adake Unsuccessful Raid",
+                    "raider_id": 58,
+                    "raiding_team_id": 2,
+                    "defender_id": 212,
+                    "defending_team_id": 3,
+                    "raid_points": 0,
+                    "defending_points": 1,
+                    "clock": "14:39",
+                    "score": [
+                        12,
+                        9
+                    ]
+                },
+                {
+                    "event_no": 34,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Jasvir Singh Empty Raid",
+                    "raider_id": 52,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "15:20",
+                    "score": [
+                        12,
+                        9
+                    ]
+                },
+                {
+                    "event_no": 35,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Selvamani K Empty Raid",
+                    "raider_id": 264,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "15:51",
+                    "score": [
+                        12,
+                        9
+                    ]
+                },
+                {
+                    "event_no": 36,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Shabeer Bappu Empty Raid",
+                    "raider_id": 105,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "16:11",
+                    "score": [
+                        12,
+                        9
+                    ]
+                },
+                {
+                    "event_no": 37,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Prashant Kumar Rai Empty Raid",
+                    "raider_id": 155,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "16:40",
+                    "score": [
+                        12,
+                        9
+                    ]
+                },
+                {
+                    "event_no": 38,
+                    "event": "Unsuccessful Raid",
+                    "event_id": 2,
+                    "event_text": "Jasvir Singh Unsuccessful Raid",
+                    "raider_id": 52,
+                    "raiding_team_id": 3,
+                    "defender_id": 165,
+                    "defending_team_id": 2,
+                    "raid_points": 0,
+                    "defending_points": 1,
+                    "clock": "17:07",
+                    "score": [
+                        12,
+                        10
+                    ]
+                },
+                {
+                    "event_no": 39,
+                    "event": "Successful Raid",
+                    "event_id": 1,
+                    "event_text": "Selvamani K raids successfully",
+                    "raider_id": 264,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 1,
+                    "defending_points": 0,
+                    "clock": "17:37",
+                    "score": [
+                        12,
+                        11
+                    ]
+                },
+                {
+                    "event_no": 40,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Ajay Kumar Empty Raid",
+                    "raider_id": 389,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "17:58",
+                    "score": [
+                        12,
+                        11
+                    ]
+                },
+                {
+                    "event_no": 41,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Kashiling Adake Empty Raid",
+                    "raider_id": 58,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "18:27",
+                    "score": [
+                        12,
+                        11
+                    ]
+                },
+                {
+                    "event_no": 42,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Shabeer Bappu Empty Raid",
+                    "raider_id": 105,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "18:55",
+                    "score": [
+                        12,
+                        11
+                    ]
+                },
+                {
+                    "event_no": 43,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Prashant Kumar Rai Empty Raid",
+                    "raider_id": 155,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "19:23",
+                    "score": [
+                        12,
+                        11
+                    ]
+                },
+                {
+                    "event_no": 44,
+                    "event": "Successful Raid",
+                    "event_id": 1,
+                    "event_text": "Ajay Kumar raids successfully",
+                    "raider_id": 389,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 2,
+                    "defending_points": 0,
+                    "clock": "19:51",
+                    "score": [
+                        14,
+                        11
+                    ]
+                },
+                {
+                    "event_no": 45,
+                    "event": "Substitution",
+                    "event_id": 5,
+                    "event_text": "Prashant Kumar Rai comes in for Anil Kumar",
+                    "player_id": 155,
+                    "substituted_by": 386,
+                    "clock": "20:22",
+                    "team_id": 2
+                },
+                {
+                    "event_no": 46,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Meraj Sheykh Empty Raid",
+                    "raider_id": 251,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "20:02",
+                    "score": [
+                        14,
+                        11
+                    ]
+                },
+                {
+                    "event_no": 47,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Jasvir Singh Empty Raid",
+                    "raider_id": 52,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "20:22",
+                    "score": [
+                        14,
+                        11
+                    ]
+                },
+                {
+                    "event_no": 48,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Meraj Sheykh Empty Raid",
+                    "raider_id": 251,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "20:50",
+                    "score": [
+                        14,
+                        11
+                    ]
+                },
+                {
+                    "event_no": 49,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Jasvir Singh Empty Raid",
+                    "raider_id": 52,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "21:18",
+                    "score": [
+                        14,
+                        11
+                    ]
+                },
+                {
+                    "event_no": 50,
+                    "event": "Substitution",
+                    "event_id": 5,
+                    "event_text": "Ajay Kumar comes in for Mahipal Narwal",
+                    "player_id": 389,
+                    "substituted_by": 67,
+                    "clock": "21:52",
+                    "team_id": 3
+                },
+                {
+                    "event_no": 51,
+                    "event": "Unsuccessful Raid",
+                    "event_id": 2,
+                    "event_text": "Selvamani K Unsuccessful Raid",
+                    "raider_id": 264,
+                    "raiding_team_id": 2,
+                    "defender_id": 96,
+                    "defending_team_id": 3,
+                    "raid_points": 0,
+                    "defending_points": 1,
+                    "clock": "21:57",
+                    "score": [
+                        15,
+                        11
+                    ]
+                },
+                {
+                    "event_no": 52,
+                    "event": "Substitution",
+                    "event_id": 5,
+                    "event_text": "Mahipal Narwal comes in for Ajay Kumar",
+                    "player_id": 67,
+                    "substituted_by": 389,
+                    "clock": "22:46",
+                    "team_id": 3
+                },
+                {
+                    "event_no": 53,
+                    "event": "Successful Raid",
+                    "event_id": 1,
+                    "event_text": "Jasvir Singh raids successfully",
+                    "raider_id": 52,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 1,
+                    "defending_points": 0,
+                    "clock": "22:51",
+                    "score": [
+                        16,
+                        11
+                    ]
+                },
+                {
+                    "event_no": 54,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Meraj Sheykh Empty Raid",
+                    "raider_id": 251,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "23:27",
+                    "score": [
+                        16,
+                        11
+                    ]
+                },
+                {
+                    "event_no": 55,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Jasvir Singh Empty Raid",
+                    "raider_id": 52,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "23:54",
+                    "score": [
+                        16,
+                        11
+                    ]
+                },
+                {
+                    "event_no": 56,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Prashant Chavan Empty Raid",
+                    "raider_id": 147,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "24:24",
+                    "score": [
+                        16,
+                        11
+                    ]
+                },
+                {
+                    "event_no": 57,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Jasvir Singh Empty Raid",
+                    "raider_id": 52,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "24:48",
+                    "score": [
+                        16,
+                        11
+                    ]
+                },
+                {
+                    "event_no": 58,
+                    "event": "Successful Raid",
+                    "event_id": 1,
+                    "event_text": "Meraj Sheykh raids successfully",
+                    "raider_id": 251,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 3,
+                    "defending_points": 0,
+                    "clock": "25:16",
+                    "score": [
+                        16,
+                        14
+                    ]
+                },
+                {
+                    "event_no": 59,
+                    "event": "Unsuccessful Raid",
+                    "event_id": 2,
+                    "event_text": "Ajay Kumar Unsuccessful Raid",
+                    "raider_id": 389,
+                    "raiding_team_id": 3,
+                    "defender_id": 165,
+                    "defending_team_id": 2,
+                    "raid_points": 0,
+                    "defending_points": 1,
+                    "clock": "26:04",
+                    "score": [
+                        16,
+                        15
+                    ]
+                },
+                {
+                    "event_no": 60,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Kashiling Adake Empty Raid",
+                    "raider_id": 58,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "26:53",
+                    "score": [
+                        16,
+                        15
+                    ]
+                },
+                {
+                    "event_no": 61,
+                    "event": "Successful Raid",
+                    "event_id": 1,
+                    "event_text": "Rajesh Narwal raids successfully",
+                    "raider_id": 86,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 1,
+                    "defending_points": 0,
+                    "clock": "27:14",
+                    "score": [
+                        17,
+                        15
+                    ]
+                },
+                {
+                    "event_no": 62,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Selvamani K Empty Raid",
+                    "raider_id": 264,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "27:48",
+                    "score": [
+                        17,
+                        15
+                    ]
+                },
+                {
+                    "event_no": 63,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Jasvir Singh Empty Raid",
+                    "raider_id": 52,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "28:08",
+                    "score": [
+                        17,
+                        15
+                    ]
+                },
+                {
+                    "event_no": 64,
+                    "event": "Successful Raid",
+                    "event_id": 1,
+                    "event_text": "Meraj Sheykh raids successfully",
+                    "raider_id": 251,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 1,
+                    "defending_points": 0,
+                    "clock": "28:34",
+                    "score": [
+                        17,
+                        16
+                    ]
+                },
+                {
+                    "event_no": 65,
+                    "event": "Successful Raid",
+                    "event_id": 1,
+                    "event_text": "Jasvir Singh raids successfully",
+                    "raider_id": 52,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 1,
+                    "defending_points": 0,
+                    "clock": "29:11",
+                    "score": [
+                        18,
+                        16
+                    ]
+                },
+                {
+                    "event_no": 66,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Selvamani K Empty Raid",
+                    "raider_id": 264,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "29:40",
+                    "score": [
+                        18,
+                        16
+                    ]
+                },
+                {
+                    "event_no": 67,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Jasvir Singh Empty Raid",
+                    "raider_id": 52,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "30:05",
+                    "score": [
+                        18,
+                        16
+                    ]
+                },
+                {
+                    "event_no": 68,
+                    "event": "Unsuccessful Raid",
+                    "event_id": 2,
+                    "event_text": "Kashiling Adake Unsuccessful Raid",
+                    "raider_id": 58,
+                    "raiding_team_id": 2,
+                    "defender_id": 212,
+                    "defending_team_id": 3,
+                    "raid_points": 0,
+                    "defending_points": 1,
+                    "clock": "30:34",
+                    "score": [
+                        19,
+                        16
+                    ]
+                },
+                {
+                    "event_no": 69,
+                    "event": "Successful Raid",
+                    "event_id": 1,
+                    "event_text": "Jasvir Singh raids successfully",
+                    "raider_id": 52,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 1,
+                    "defending_points": 0,
+                    "clock": "31:10",
+                    "score": [
+                        20,
+                        16
+                    ]
+                },
+                {
+                    "event_no": 70,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Meraj Sheykh Empty Raid",
+                    "raider_id": 251,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "31:47",
+                    "score": [
+                        20,
+                        16
+                    ]
+                },
+                {
+                    "event_no": 71,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Jasvir Singh Empty Raid",
+                    "raider_id": 52,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "32:14",
+                    "score": [
+                        20,
+                        16
+                    ]
+                },
+                {
+                    "event_no": 72,
+                    "event": "TimeOut",
+                    "event_id": 8,
+                    "event_text": "Timeout taken by Umpire",
+                    "clock": "32:49",
+                    "team_id": 0
+                },
+                {
+                    "event_no": 73,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Meraj Sheykh Empty Raid",
+                    "raider_id": 251,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "32:51",
+                    "score": [
+                        20,
+                        16
+                    ]
+                },
+                {
+                    "event_no": 74,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Jasvir Singh Empty Raid",
+                    "raider_id": 52,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "33:03",
+                    "score": [
+                        20,
+                        16
+                    ]
+                },
+                {
+                    "event_no": 75,
+                    "event": "Unsuccessful Raid",
+                    "event_id": 2,
+                    "event_text": "Selvamani K Unsuccessful Raid",
+                    "raider_id": 264,
+                    "raiding_team_id": 2,
+                    "defender_id": 160,
+                    "defending_team_id": 3,
+                    "raid_points": 0,
+                    "defending_points": 1,
+                    "clock": "33:34",
+                    "score": [
+                        21,
+                        16
+                    ]
+                },
+                {
+                    "event_no": 76,
+                    "event": "Successful Raid",
+                    "event_id": 1,
+                    "event_text": "Jasvir Singh raids successfully",
+                    "raider_id": 52,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 1,
+                    "defending_points": 0,
+                    "clock": "34:07",
+                    "score": [
+                        22,
+                        16
+                    ]
+                },
+                {
+                    "event_no": 77,
+                    "event": "TimeOut",
+                    "event_id": 8,
+                    "event_text": "Timeout taken by Jaipur Pink Panthers",
+                    "clock": "34:41",
+                    "team_id": 3
+                },
+                {
+                    "event_no": 78,
+                    "event": "Successful Raid",
+                    "event_id": 1,
+                    "event_text": "Meraj Sheykh raids successfully",
+                    "raider_id": 251,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 2,
+                    "defending_points": 0,
+                    "clock": "34:42",
+                    "score": [
+                        22,
+                        18
+                    ]
+                },
+                {
+                    "event_no": 79,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Jasvir Singh Empty Raid",
+                    "raider_id": 52,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "35:18",
+                    "score": [
+                        22,
+                        18
+                    ]
+                },
+                {
+                    "event_no": 80,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Prashant Chavan Empty Raid",
+                    "raider_id": 147,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "35:46",
+                    "score": [
+                        22,
+                        18
+                    ]
+                },
+                {
+                    "event_no": 81,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Jasvir Singh Empty Raid",
+                    "raider_id": 52,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "35:55",
+                    "score": [
+                        22,
+                        18
+                    ]
+                },
+                {
+                    "event_no": 82,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Prashant Chavan Empty Raid",
+                    "raider_id": 147,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "36:25",
+                    "score": [
+                        22,
+                        18
+                    ]
+                },
+                {
+                    "event_no": 83,
+                    "event": "Unsuccessful Raid",
+                    "event_id": 2,
+                    "event_text": "Jasvir Singh Unsuccessful Raid",
+                    "raider_id": 52,
+                    "raiding_team_id": 3,
+                    "defender_id": 251,
+                    "defending_team_id": 2,
+                    "raid_points": 0,
+                    "defending_points": 2,
+                    "clock": "36:34",
+                    "score": [
+                        22,
+                        20
+                    ]
+                },
+                {
+                    "event_no": 84,
+                    "event": "Successful Raid",
+                    "event_id": 1,
+                    "event_text": "Meraj Sheykh raids successfully",
+                    "raider_id": 251,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 1,
+                    "defending_points": 0,
+                    "clock": "37:11",
+                    "score": [
+                        22,
+                        21
+                    ]
+                },
+                {
+                    "event_no": 85,
+                    "event": "TimeOut",
+                    "event_id": 8,
+                    "event_text": "Timeout taken by Dabang Delhi K.C.",
+                    "clock": "37:46",
+                    "team_id": 2
+                },
+                {
+                    "event_no": 86,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Shabeer Bappu Empty Raid",
+                    "raider_id": 105,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "37:47",
+                    "score": [
+                        22,
+                        21
+                    ]
+                },
+                {
+                    "event_no": 87,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Kashiling Adake Empty Raid",
+                    "raider_id": 58,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "38:16",
+                    "score": [
+                        22,
+                        21
+                    ]
+                },
+                {
+                    "event_no": 88,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Shabeer Bappu Empty Raid",
+                    "raider_id": 105,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "38:23",
+                    "score": [
+                        22,
+                        21
+                    ]
+                },
+                {
+                    "event_no": 89,
+                    "event": "Empty Raid",
+                    "event_id": 3,
+                    "event_text": "Kashiling Adake Empty Raid",
+                    "raider_id": 58,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 0,
+                    "defending_points": 0,
+                    "clock": "38:54",
+                    "score": [
+                        22,
+                        21
+                    ]
+                },
+                {
+                    "event_no": 90,
+                    "event": "Successful Raid",
+                    "event_id": 1,
+                    "event_text": "Ajay Kumar raids successfully",
+                    "raider_id": 389,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 1,
+                    "defending_points": 0,
+                    "clock": "39:00",
+                    "score": [
+                        23,
+                        21
+                    ]
+                },
+                {
+                    "event_no": 91,
+                    "event": "Successful Raid",
+                    "event_id": 1,
+                    "event_text": "Meraj Sheykh raids successfully",
+                    "raider_id": 251,
+                    "raiding_team_id": 2,
+                    "defender_id": null,
+                    "defending_team_id": 3,
+                    "raid_points": 1,
+                    "defending_points": 0,
+                    "clock": "39:33",
+                    "score": [
+                        23,
+                        22
+                    ]
+                },
+                {
+                    "event_no": 92,
+                    "event": "Successful Raid",
+                    "event_id": 1,
+                    "event_text": "Rajesh Narwal raids successfully",
+                    "raider_id": 86,
+                    "raiding_team_id": 3,
+                    "defender_id": null,
+                    "defending_team_id": 2,
+                    "raid_points": 1,
+                    "defending_points": 0,
+                    "clock": "39:59",
+                    "score": [
+                        24,
+                        22
+                    ]
+                }
+            ]
+        },
+        "original_format": "type1_converted"
+    }
+}

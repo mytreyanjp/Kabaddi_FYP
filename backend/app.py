@@ -1,4 +1,4 @@
-# app.py
+
 from flask import Flask, jsonify, request
 from flask_cors import CORS
 import json
@@ -10,19 +10,13 @@ import random
 app = Flask(__name__)
 CORS(app)
 
-# Global flag to prevent multiple executions of the lineup optimization process
 lineup_processed = False
 
-# Cache for algorithm teams to avoid re-running
+
 cached_ga_team = None
 cached_sa_team = None
 cached_tabu_team = None
 
-# A simple mock dataset for Kabaddi player data
-# In a real application, this would come from a database or a complex model calculation.
-
-
-# API endpoint for player stats
 @app.route("/api/player_stats", methods=["GET"])
 def get_player_stats():
     """
@@ -37,18 +31,18 @@ def get_player_stats():
         return jsonify({"error": "ILP team CSV not found. Please run the lineup optimization first."}), 404
 
 def genetic_algorithm(players, team_size=7):
-    # Simple GA to select team maximizing overall_points with role constraints
+
     population_size = 50
     generations = 100
     mutation_rate = 0.1
 
     def fitness(team):
-        # Penalize if role constraints not met
+
         roles = [p['tag'] for p in team]
-        # Enforce exactly 3 defenders, 3 raiders, 1 allrounder
+
         if roles.count('defender') != 3 or roles.count('raider') != 3 or roles.count('allrounder') != 1:
             return 0
-        # Penalize duplicate players
+
         player_names = [p['player_name'] for p in team]
         if len(player_names) != len(set(player_names)):
             return 0
@@ -69,7 +63,7 @@ def genetic_algorithm(players, team_size=7):
         for p in parent2:
             if p not in child and len(child) < team_size:
                 child.append(p)
-        # Ensure child has exactly team_size players
+
         if len(child) < team_size:
             available = [p for p in players if p not in child]
             random.shuffle(available)
@@ -87,7 +81,7 @@ def genetic_algorithm(players, team_size=7):
 
     for _ in range(generations):
         population = sorted(population, key=fitness, reverse=True)
-        next_gen = population[:10]  # Elitism
+        next_gen = population[:10]
         while len(next_gen) < population_size:
             parents = random.sample(population[:20], 2)
             child = crossover(parents[0], parents[1])
@@ -99,13 +93,13 @@ def genetic_algorithm(players, team_size=7):
     return best_team
 
 def simulated_annealing(players, team_size=7):
-    # SA to select team maximizing overall_points with role constraints
+
     def fitness(team):
         roles = [p['tag'] for p in team]
-        # Enforce exactly 3 defenders, 3 raiders, 1 allrounder
+
         if roles.count('defender') != 3 or roles.count('raider') != 3 or roles.count('allrounder') != 1:
             return 0
-        # Penalize duplicate players
+
         player_names = [p['player_name'] for p in team]
         if len(player_names) != len(set(player_names)):
             return 0
@@ -153,13 +147,13 @@ def simulated_annealing(players, team_size=7):
     return best
 
 def tabu_search(players, team_size=7):
-    # Tabu search to select team maximizing overall_points with role constraints
+
     def fitness(team):
         roles = [p['tag'] for p in team]
-        # Enforce exactly 3 defenders, 3 raiders, 1 allrounder
+
         if roles.count('defender') != 3 or roles.count('raider') != 3 or roles.count('allrounder') != 1:
             return 0
-        # Penalize duplicate players
+
         player_names = [p['player_name'] for p in team]
         if len(player_names) != len(set(player_names)):
             return 0
@@ -205,7 +199,7 @@ def tabu_search(players, team_size=7):
             tabu_list.pop(0)
     return best
 
-# API endpoint for a specific lineup
+
 @app.route("/api/lineup", methods=["GET"])
 def get_lineup():
     """
@@ -217,7 +211,7 @@ def get_lineup():
 
     global lineup_processed
 
-    # Check if CSVs already exist to avoid re-running
+
     csvs_exist = (
         os.path.exists("player_effectiveness.csv") and
         os.path.exists("optimal_kabaddi_with_allrounder.csv") and
@@ -227,22 +221,22 @@ def get_lineup():
     if not lineup_processed and not csvs_exist:
         print("Starting lineup optimization process...")
 
-        # Ensure current working directory is backend for relative paths
+
         cwd = os.getcwd()
         if not cwd.endswith("backend"):
             os.chdir(os.path.join(cwd, "backend"))
 
-        # Step 1: Run extract_key_points.py
+
         print("Step 1: Extracting key points from player stats...")
         subprocess.run([sys.executable, "extract_key_points.py"], check=True)
         print("Step 1 completed: Key points extracted and saved to player_effectiveness.csv")
 
-        # Step 2: Run heuristics.py
+
         print("Step 2: Applying heuristics to tag players and select initial team...")
         subprocess.run([sys.executable, "heuristics.py"], check=True)
         print("Step 2 completed: Heuristic-based team saved to optimal_kabaddi_team_with_allrounder.csv")
 
-        # Step 3: Run ilp.py
+
         print("Step 3: Solving Integer Linear Programming (ILP) for optimal team composition...")
         subprocess.run([sys.executable, "ilp.py"], check=True)
         print("Step 3 completed: ILP optimal team saved to optimal_kabaddi_team_ILP.csv")
@@ -251,17 +245,17 @@ def get_lineup():
     else:
         print("Lineup optimization already processed or CSVs exist. Skipping subprocess calls.")
 
-    # Step 4: Read the generated CSVs
+
     print("Step 4: Reading the optimal team data from CSVs...")
     heuristic_df = pd.read_csv("optimal_kabaddi_with_allrounder.csv")
     ilp_df = pd.read_csv("optimal_kabaddi_team_ILP.csv")
     print(f"Heuristic team loaded: {len(heuristic_df)} players selected")
     print(f"ILP team loaded: {len(ilp_df)} players selected")
 
-    # Prepare players list for new algorithms
+
     all_players_df = pd.read_csv("player_effectiveness.csv")
 
-    # Tagging logic from heuristics.py
+
     offense_thresh = all_players_df["offense_points"].quantile(0.7)
     defense_thresh = all_players_df["defense_points"].quantile(0.7)
 
@@ -277,7 +271,7 @@ def get_lineup():
 
     all_players_df["tag"] = all_players_df.apply(tag_player, axis=1)
 
-    # Ensure at least 1 allrounder
+
     if (all_players_df["tag"] == "allrounder").sum() == 0:
         all_players_df["allrounder_score"] = all_players_df["offense_points"] * all_players_df["defense_points"]
         fallback_idx = all_players_df["allrounder_score"].idxmax()
@@ -285,19 +279,19 @@ def get_lineup():
 
     all_players = all_players_df.to_dict(orient="records")
 
-    # Generate new teams using GA, SA, and Tabu Search
+
     ga_team = genetic_algorithm(all_players)
     sa_team = simulated_annealing(all_players)
     tabu_team = tabu_search(all_players)
 
-    # Save teams to CSVs for interaction matrix
+
     heuristic_df.to_csv("heuristic_team.csv", index=False)
     ilp_df.to_csv("ilp_team.csv", index=False)
     pd.DataFrame(ga_team).to_csv("genetic_algorithm_team.csv", index=False)
     pd.DataFrame(sa_team).to_csv("simulated_annealing_team.csv", index=False)
     pd.DataFrame(tabu_team).to_csv("tabu_search_team.csv", index=False)
 
-    # Convert to JSON and send to frontend
+
     lineup = {
         "heuristic_team": {
             "players": heuristic_df.to_dict(orient="records")
@@ -318,9 +312,9 @@ def get_lineup():
     print("Lineup optimization process completed. Returning JSON response.")
     return jsonify(lineup)
 
-# Mock tactical data for a raider's path on the court.
-# Coordinates are in a simplified format (x, y).
-# The frontend will map these to pixels on the SVG.
+
+
+
 mock_tactical_data = {
     "raiderPath": [
         {"x": 100, "y": 200},
@@ -333,7 +327,7 @@ mock_tactical_data = {
     ]
 }
 
-# New API endpoint for tactics
+
 @app.route("/api/tactics", methods=["GET"])
 def get_tactics():
     return jsonify(mock_tactical_data)
@@ -353,18 +347,18 @@ def get_interactions():
     output_csv = f"final_team_explanatory_synergy_matrix_{team}.csv"
 
     try:
-        # Ensure current working directory is backend for relative paths
+
         cwd = os.getcwd()
         if not cwd.endswith("backend"):
             os.chdir(os.path.join(cwd, "backend"))
 
-        # Check if synergy matrix CSV exists, if not, run conmat.py to generate it
+
         if not os.path.exists(output_csv):
             print(f"Generating synergy matrix for {team} using conmat.py...")
             subprocess.run([sys.executable, "conmat.py", csv_file, output_csv], check=True)
             print("Synergy matrix generated.")
 
-        # Load the synergy matrix from the CSV
+
         synergy_df = pd.read_csv(output_csv, index_col=0)
         synergy_matrix = synergy_df.values.tolist()
         players = list(synergy_df.index)
@@ -377,7 +371,7 @@ def get_interactions():
     except Exception as e:
         return jsonify({"error": f"Error loading synergy matrix: {str(e)}"}), 500
 
-# Health check endpoint for liveness and readiness probes
+
 @app.route("/health", methods=["GET"])
 def health():
     return jsonify({"status": "healthy"})

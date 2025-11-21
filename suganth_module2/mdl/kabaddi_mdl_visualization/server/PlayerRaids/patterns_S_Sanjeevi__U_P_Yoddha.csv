@@ -1,0 +1,11 @@
+pattern,support,gain
+empty_unknown_nan_vs_U.P._Yoddhas_none_early_zero||empty_unknown_nan_vs_U.P._Yoddhas_none_early_zero||empty_unknown_nan_vs_U.P._Yoddhas_none_early_zero,4,7.0
+empty_unknown_nan_vs_U.P._Yoddhas_none_early_zero||empty_unknown_nan_vs_U.P._Yoddhas_none_early_zero,6,5.0
+empty_unknown_nan_vs_U.P._Yoddhas_none_early_zero||empty_unknown_nan_vs_U.P._Yoddhas_none_early_zero||empty_unknown_nan_vs_U.P._Yoddhas_none_early_zero||empty_unknown_nan_vs_U.P._Yoddhas_none_early_zero,2,5.0
+doordie_success_nan_vs_U.P._Yoddhas_none_early_high||empty_unknown_nan_vs_U.P._Yoddhas_none_early_zero||empty_unknown_nan_vs_U.P._Yoddhas_none_early_zero,1,1.0
+doordie_success_nan_vs_U.P._Yoddhas_none_early_high||empty_unknown_nan_vs_U.P._Yoddhas_none_early_zero,1,0.0
+empty_unknown_nan_vs_U.P._Yoddhas_none_early_zero||bonus_success_nan_vs_U.P._Yoddhas_unknown_early_zero,1,0.0
+bonus_success_nan_vs_U.P._Yoddhas_unknown_early_zero||empty_unknown_nan_vs_U.P._Yoddhas_none_early_zero,1,0.0
+empty_unknown_nan_vs_U.P._Yoddhas_none_early_zero,8,-1.0
+doordie_success_nan_vs_U.P._Yoddhas_none_early_high,1,-1.0
+bonus_success_nan_vs_U.P._Yoddhas_unknown_early_zero,1,-1.0

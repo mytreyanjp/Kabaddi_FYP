@@ -54,7 +54,7 @@ for r_needed in range(2, 5):  # allow 2–4 raiders
                 defenders.iloc[:d_needed]
             ])
 
-            # ✅ extra check: must contain all 3 roles
+            #  extra check: must contain all 3 roles
             tags_in_team = set(selected["tag"])
             if {"raider", "defender", "allrounder"}.issubset(tags_in_team):
                 score = selected["overall_points"].sum()

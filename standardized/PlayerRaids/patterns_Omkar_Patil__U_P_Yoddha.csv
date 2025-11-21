@@ -1,0 +1,11 @@
+pattern,support,gain
+empty_unknown_nan_vs_U.P._Yoddhas_none_early_zero||empty_unknown_nan_vs_U.P._Yoddhas_none_early_zero,4,3.0
+empty_unknown_nan_vs_U.P._Yoddhas_none_early_zero||empty_unknown_nan_vs_U.P._Yoddhas_none_early_zero||empty_unknown_nan_vs_U.P._Yoddhas_none_early_zero,2,3.0
+empty_unknown_nan_vs_U.P._Yoddhas_none_early_zero||doordie_success_nan_vs_U.P._Yoddhas_none_early_high||empty_unknown_nan_vs_U.P._Yoddhas_none_early_zero,2,3.0
+empty_unknown_nan_vs_U.P._Yoddhas_none_early_zero||doordie_success_nan_vs_U.P._Yoddhas_none_early_high,2,1.0
+doordie_success_nan_vs_U.P._Yoddhas_none_early_high||empty_unknown_nan_vs_U.P._Yoddhas_none_early_zero,2,1.0
+empty_unknown_nan_vs_U.P._Yoddhas_none_early_zero,10,-1.0
+doordie_success_nan_vs_U.P._Yoddhas_none_early_high,2,-1.0
+bonus_success_nan_vs_U.P._Yoddhas_unknown_early_zero,1,-1.0
+regular_success_nan_vs_U.P._Yoddhas_none_early_single,1,-1.0
+doordie_success_nan_vs_U.P._Yoddhas_none_early_single,1,-1.0
