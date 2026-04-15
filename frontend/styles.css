@@ -1,0 +1,456 @@
+:root {
+  --bg: #f4efe5;
+  --bg-accent: #e6d8b8;
+  --surface: rgba(255, 252, 245, 0.9);
+  --surface-strong: #fffaf0;
+  --ink: #1b1a17;
+  --muted: #645c4b;
+  --line: rgba(27, 26, 23, 0.12);
+  --gold: #c88d2f;
+  --gold-deep: #8f5f0a;
+  --green: #3d6b52;
+  --red: #8d4737;
+  --shadow: 0 20px 60px rgba(65, 45, 11, 0.14);
+  --radius-xl: 28px;
+  --radius-lg: 22px;
+  --radius-md: 16px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at top left, rgba(200, 141, 47, 0.24), transparent 30%),
+    radial-gradient(circle at top right, rgba(61, 107, 82, 0.16), transparent 28%),
+    linear-gradient(180deg, #f8f1e3 0%, var(--bg) 48%, #efe4cf 100%);
+  color: var(--ink);
+  font-family: "Source Sans 3", sans-serif;
+}
+
+code {
+  font-family: "Space Grotesk", sans-serif;
+}
+
+.page-shell {
+  width: min(1560px, calc(100vw - 20px));
+  margin: 0 auto;
+  padding: 16px 0 40px;
+}
+
+.hero,
+.panel {
+  border: 1px solid var(--line);
+  background: var(--surface);
+  backdrop-filter: blur(14px);
+  box-shadow: var(--shadow);
+}
+
+.hero {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr;
+  gap: 24px;
+  padding: 30px;
+  border-radius: var(--radius-xl);
+}
+
+.hero-copy h1,
+.panel-head h2 {
+  margin: 0;
+  font-family: "Space Grotesk", sans-serif;
+  letter-spacing: -0.03em;
+}
+
+.hero-copy h1 {
+  font-size: clamp(2.2rem, 4vw, 4rem);
+  line-height: 0.95;
+  max-width: 11ch;
+}
+
+.eyebrow {
+  margin: 0 0 10px;
+  color: var(--gold-deep);
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+.hero-text,
+.panel-note,
+.meta-label,
+.player-meta,
+.status-card,
+.empty-state {
+  color: var(--muted);
+}
+
+.hero-text {
+  max-width: 58ch;
+  font-size: 1.05rem;
+}
+
+.hero-meta,
+.tag-row,
+.role-row,
+.team-actions,
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.meta-pill,
+.role-pill,
+.metric-chip,
+.legend-chip {
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 8px 12px;
+  background: rgba(255, 255, 255, 0.6);
+  font-size: 0.92rem;
+}
+
+.hero-scoreboard,
+.summary-grid {
+  display: grid;
+  gap: 12px;
+}
+
+.summary-card {
+  padding: 16px;
+  border-radius: var(--radius-md);
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.86), rgba(239, 228, 207, 0.92));
+  border: 1px solid var(--line);
+}
+
+.summary-card strong,
+.team-card h3,
+.player-name,
+.matrix-cell {
+  font-family: "Space Grotesk", sans-serif;
+}
+
+.summary-score {
+  font-size: 1.8rem;
+  font-weight: 700;
+}
+
+.content {
+  display: grid;
+  gap: 24px;
+  margin-top: 24px;
+}
+
+.panel {
+  padding: 24px;
+  border-radius: var(--radius-lg);
+}
+
+.panel-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  gap: 16px;
+  margin-bottom: 20px;
+}
+
+.panel-note {
+  max-width: 38ch;
+  margin: 0;
+  text-align: right;
+}
+
+.status-card,
+.empty-state {
+  padding: 18px;
+  border-radius: var(--radius-md);
+  border: 1px dashed var(--line);
+  background: rgba(255, 255, 255, 0.42);
+}
+
+.status-card.error {
+  color: var(--red);
+  border-color: rgba(141, 71, 55, 0.3);
+  background: rgba(141, 71, 55, 0.08);
+}
+
+.team-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 14px;
+}
+
+.team-card {
+  display: grid;
+  grid-template-columns: minmax(190px, 220px) 1fr;
+  align-items: start;
+  gap: 10px;
+  padding: 12px;
+  border-radius: 18px;
+  border: 1px solid var(--line);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.94), rgba(242, 234, 219, 0.94));
+  transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+}
+
+.team-card:hover,
+.team-card.active {
+  transform: translateY(-3px);
+  border-color: rgba(200, 141, 47, 0.45);
+  box-shadow: 0 18px 36px rgba(65, 45, 11, 0.14);
+}
+
+.team-card-header {
+  display: flex;
+  gap: 10px;
+}
+
+.team-card-main {
+  display: grid;
+  gap: 8px;
+}
+
+.team-card-roster {
+  min-width: 0;
+}
+
+.team-card h3 {
+  margin: 0 0 2px;
+  font-size: 0.95rem;
+  line-height: 1.1;
+}
+
+.team-subtitle {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
+.metric-row {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 6px;
+}
+
+.team-card-main > .metric-row .metric-chip {
+  padding: 6px 8px;
+  font-size: 0.78rem;
+}
+
+.metric-chip strong {
+  display: block;
+  font-size: 1rem;
+}
+
+.roster-grid {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: 6px;
+}
+
+.player-card {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 6px;
+  align-content: start;
+  padding: 8px;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.72);
+  border: 1px solid rgba(27, 26, 23, 0.08);
+  min-height: 0;
+}
+
+.player-avatar {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  overflow: hidden;
+  display: grid;
+  place-items: center;
+  background: linear-gradient(135deg, var(--gold), #f0cb72);
+  color: white;
+  font-family: "Space Grotesk", sans-serif;
+  font-weight: 700;
+  font-size: 0.86rem;
+}
+
+.player-avatar img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.player-name {
+  margin: 0;
+  font-size: 0.84rem;
+  line-height: 1.1;
+}
+
+.player-meta {
+  margin: 0;
+  font-size: 0.71rem;
+  line-height: 1.12;
+}
+
+.role-pill {
+  padding: 3px 6px;
+  font-size: 0.66rem;
+  text-transform: capitalize;
+}
+
+.player-card .tag-row {
+  justify-content: space-between;
+  align-items: start;
+  gap: 4px;
+}
+
+.player-card .role-row {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 4px;
+}
+
+.player-card .metric-chip {
+  padding: 4px 5px;
+  font-size: 0.64rem;
+  border-radius: 12px;
+  line-height: 1.05;
+}
+
+.player-card .metric-chip strong {
+  font-size: 0.8rem;
+  line-height: 1;
+}
+
+.role-pill.raider {
+  background: rgba(200, 141, 47, 0.16);
+}
+
+.role-pill.defender {
+  background: rgba(61, 107, 82, 0.16);
+}
+
+.role-pill.allrounder {
+  background: rgba(94, 69, 124, 0.16);
+}
+
+.team-actions button {
+  appearance: none;
+  border: 0;
+  background: var(--ink);
+  color: white;
+  padding: 7px 12px;
+  border-radius: 999px;
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.84rem;
+}
+
+.team-actions button.secondary {
+  background: rgba(27, 26, 23, 0.08);
+  color: var(--ink);
+}
+
+.synergy-content {
+  display: grid;
+  gap: 18px;
+}
+
+.legend-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.swatch {
+  width: 16px;
+  height: 16px;
+  border-radius: 999px;
+  display: inline-block;
+}
+
+.matrix-shell {
+  overflow-x: auto;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.72);
+}
+
+.matrix-table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 720px;
+}
+
+.matrix-table th,
+.matrix-table td {
+  padding: 12px;
+  text-align: center;
+  border-bottom: 1px solid rgba(27, 26, 23, 0.08);
+  border-right: 1px solid rgba(27, 26, 23, 0.08);
+}
+
+.matrix-table th:first-child,
+.matrix-table td:first-child {
+  text-align: left;
+  position: sticky;
+  left: 0;
+  background: var(--surface-strong);
+  z-index: 1;
+}
+
+.matrix-table thead th {
+  position: sticky;
+  top: 0;
+  background: var(--surface-strong);
+  z-index: 2;
+}
+
+.matrix-cell {
+  color: var(--ink);
+  font-weight: 700;
+}
+
+@media (max-width: 920px) {
+  .hero,
+  .panel-head {
+    grid-template-columns: 1fr;
+    display: grid;
+  }
+
+  .panel-note {
+    text-align: left;
+  }
+
+  .team-card {
+    grid-template-columns: 1fr;
+  }
+
+  .roster-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 640px) {
+  .page-shell {
+    width: min(100vw - 20px, 1280px);
+    padding-top: 16px;
+  }
+
+  .hero,
+  .panel {
+    padding: 18px;
+  }
+
+  .metric-row {
+    grid-template-columns: 1fr;
+  }
+
+  .roster-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}

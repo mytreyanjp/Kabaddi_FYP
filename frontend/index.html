@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kabaddi Team Optimizer</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Source+Sans+3:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Kabaddi Analytics Dashboard</p>
+          <h1>Five generated squads, one rebuilt frontend.</h1>
+          <p class="hero-text">
+            Compare the Heuristic, ILP, Genetic Algorithm, Simulated Annealing,
+            and Tabu Search lineups produced by the Flask backend.
+          </p>
+          <div class="hero-meta">
+            <span class="meta-pill">7 players per squad</span>
+            <span class="meta-pill">Live from <code>/api/lineup</code></span>
+            <span class="meta-pill">Synergy from <code>/api/interactions</code></span>
+          </div>
+        </div>
+        <div class="hero-scoreboard" id="summary-cards"></div>
+      </header>
+
+      <main class="content">
+        <section class="panel">
+          <div class="panel-head">
+            <div>
+              <p class="eyebrow">Lineups</p>
+              <h2>Algorithm-generated teams</h2>
+            </div>
+            <p class="panel-note">
+              Photos are shown whenever a matching image exists somewhere in the
+              repo. Otherwise the UI falls back to initials.
+            </p>
+          </div>
+          <div id="status" class="status-card">Loading team data...</div>
+          <div id="team-grid" class="team-grid"></div>
+        </section>
+      </main>
+    </div>
+
+    <script src="/app.js"></script>
+  </body>
+</html>
